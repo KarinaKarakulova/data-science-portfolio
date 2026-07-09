@@ -1,0 +1,10 @@
+# Local dev runs on DuckDB. Swapping to BigQuery = replace this profile with a
+# `type: bigquery` target (dataset, keyfile/oauth); every model is written in
+# dialect-portable SQL, so no model changes are required.
+rx_analytics:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: rx.duckdb
+      threads: 4

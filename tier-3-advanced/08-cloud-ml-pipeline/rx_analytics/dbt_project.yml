@@ -1,0 +1,12 @@
+name: rx_analytics
+version: "1.0"
+profile: rx_analytics
+model-paths: ["models"]
+models:
+  rx_analytics:
+    staging:
+      +materialized: view
+    marts:
+      +materialized: table
+    features:
+      +materialized: table

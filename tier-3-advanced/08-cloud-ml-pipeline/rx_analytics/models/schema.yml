@@ -1,0 +1,24 @@
+version: 2
+models:
+  - name: stg_rx_monthly
+    columns:
+      - name: trx
+        tests: [not_null]
+      - name: state
+        tests:
+          - accepted_values:
+              values: ["CA","TX","FL","NY","PA","IL","NJ","MA","GA","NC","OH","MI","WA","AZ","VA"]
+  - name: fct_rx_state_month
+    columns:
+      - name: drug
+        tests:
+          - relationships:
+              to: ref('stg_drugs')
+              field: drug
+      - name: months_since_launch
+        tests: [not_null]
+  - name: ft_demand_training
+    description: Leakage-safe training features; grain drug x state x month
+    columns:
+      - name: target_trx_next_month
+        tests: [not_null]

@@ -1,0 +1,36 @@
+{
+  "trained_at_utc": "2026-07-06T16:41:41+00:00",
+  "model": "HistGradientBoostingRegressor",
+  "params": {
+    "learning_rate": 0.06,
+    "max_iter": 500,
+    "early_stopping": true
+  },
+  "feature_table": "ft_demand_training (dbt)",
+  "training_frame_sha256_16": "64629c224396c983",
+  "dbt_manifest_sha256_16": "54d1ac2fc5abf877",
+  "rows": {
+    "train": 2370,
+    "test": 450
+  },
+  "split": "time-based @ 2025-06",
+  "metrics": {
+    "baseline_naive": {
+      "MAE": 71.67777777777778,
+      "MAPE": 0.10641040959644164
+    },
+    "hist_gbm": {
+      "MAE": 62.528310326736374,
+      "MAPE": 0.10379313923946328
+    }
+  },
+  "improvement_vs_naive_MAE": 0.128,
+  "top_features": {
+    "trx_ma3": 514.33,
+    "trx_lag3": 28.9,
+    "detailing_lag2": 15.42,
+    "month_of_year": 9.78,
+    "trx_lag2": 9.31,
+    "trx_lag1": 8.28
+  }
+}

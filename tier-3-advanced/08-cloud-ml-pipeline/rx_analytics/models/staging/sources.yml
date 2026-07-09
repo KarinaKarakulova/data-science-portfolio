@@ -1,0 +1,10 @@
+version: 2
+sources:
+  - name: raw
+    meta:
+      external_location: "../data/{name}.csv"
+    tables:
+      - name: rx_monthly_raw
+        description: Monthly TRx panel by drug x state, with detailing intensity
+      - name: drug_dim
+        description: Drug reference (therapeutic class)
