@@ -1,0 +1,54 @@
+{
+  "n_customers": 7043,
+  "churn_rate": 0.2653698707936959,
+  "champion": "random_forest",
+  "cv_table": {
+    "logistic_regression": {
+      "cv_roc_auc": 0.846,
+      "cv_roc_auc_std": 0.0124,
+      "cv_pr_auc": 0.66,
+      "cv_pr_auc_std": 0.0195
+    },
+    "random_forest": {
+      "cv_roc_auc": 0.8467,
+      "cv_roc_auc_std": 0.0094,
+      "cv_pr_auc": 0.6619,
+      "cv_pr_auc_std": 0.0213
+    },
+    "hist_gradient_boosting": {
+      "cv_roc_auc": 0.8424,
+      "cv_roc_auc_std": 0.009,
+      "cv_pr_auc": 0.6538,
+      "cv_pr_auc_std": 0.0208
+    }
+  },
+  "test_roc_auc": 0.8431,
+  "test_pr_auc": 0.6521,
+  "threshold_default": {
+    "t": 0.5,
+    "tp": 288,
+    "fp": 238,
+    "fn": 86,
+    "profit_usd": 42820
+  },
+  "threshold_optimal": {
+    "t": 0.43,
+    "tp": 306,
+    "fp": 290,
+    "fn": 68,
+    "profit_usd": 43640
+  },
+  "economics_assumed": {
+    "contact_cost": 50.0,
+    "saved_value": 800.0,
+    "offer_success": 0.3
+  },
+  "top_features": {
+    "Contract": 0.0632,
+    "tenure": 0.026,
+    "InternetService": 0.0168,
+    "TotalCharges": 0.0136,
+    "OnlineSecurity": 0.0051,
+    "TechSupport": 0.0035
+  }
+}
