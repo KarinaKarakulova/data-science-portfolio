@@ -1,0 +1,2501 @@
+hcp_id,specialty,region,lon,lat,territory
+HCP00001,Internal Medicine,South,-83.254,31.858,T12
+HCP00002,Internal Medicine,Midwest,-95.565,43.999,T7
+HCP00003,Cardiology,Midwest,-87.649,44.139,T15
+HCP00004,Endocrinology,South,-90.441,29.038,T8
+HCP00005,Internal Medicine,Midwest,-94.747,42.741,T7
+HCP00006,Nephrology,West,-109.273,44.978,T7
+HCP00007,Endocrinology,Northeast,-74.284,47.11,T19
+HCP00008,Cardiology,Northeast,-71.464,39.562,T18
+HCP00009,Endocrinology,Northeast,-69.346,34.811,T17
+HCP00010,Endocrinology,Midwest,-87.834,40.814,T14
+HCP00011,Internal Medicine,South,-87.756,32.143,T12
+HCP00012,Internal Medicine,South,-94.177,30.816,T4
+HCP00013,Cardiology,Northeast,-75.539,46.107,T19
+HCP00014,Cardiology,West,-115.435,37.739,T1
+HCP00015,Geriatrics,Northeast,-69.433,41.896,T18
+HCP00016,Cardiology,South,-87.01,33.37,T12
+HCP00017,Internal Medicine,Northeast,-67.325,38.525,T17
+HCP00018,Internal Medicine,Northeast,-74.481,34.606,T16
+HCP00019,Internal Medicine,South,-92.684,31.968,T8
+HCP00020,Nephrology,West,-112.655,41.188,T2
+HCP00021,Cardiology,Midwest,-96.299,45.265,T7
+HCP00022,Endocrinology,Northeast,-72.891,39.55,T18
+HCP00023,Nephrology,West,-117.517,38.676,T1
+HCP00024,Cardiology,South,-92.766,34.768,T8
+HCP00025,Endocrinology,West,-117.029,37.502,T1
+HCP00026,Nephrology,South,-90.808,26.77,T8
+HCP00027,Internal Medicine,West,-111.762,40.225,T2
+HCP00028,Endocrinology,South,-86.87,28.822,T12
+HCP00029,Geriatrics,South,-93.166,31.262,T8
+HCP00030,Geriatrics,West,-117.408,34.205,T0
+HCP00031,Endocrinology,West,-117.16,36.608,T1
+HCP00032,Internal Medicine,Northeast,-75.395,44.875,T19
+HCP00033,Cardiology,Midwest,-92.291,42.084,T10
+HCP00034,Internal Medicine,Northeast,-69.796,42.702,T19
+HCP00035,Cardiology,Midwest,-95.459,39.523,T6
+HCP00036,Cardiology,West,-117.157,33.967,T0
+HCP00037,Nephrology,Northeast,-73.818,45.562,T19
+HCP00038,Internal Medicine,South,-89.785,33.398,T8
+HCP00039,Endocrinology,South,-87.45,33.633,T12
+HCP00040,Internal Medicine,South,-93.754,23.701,T4
+HCP00041,Cardiology,South,-88.583,32.167,T12
+HCP00042,Cardiology,Midwest,-92.385,42.74,T11
+HCP00043,Nephrology,West,-117.512,38.123,T1
+HCP00044,Internal Medicine,South,-84.269,32.806,T12
+HCP00045,Cardiology,Northeast,-73.698,46.774,T19
+HCP00046,Endocrinology,West,-112.879,33.296,T0
+HCP00047,Endocrinology,Northeast,-76.275,38.612,T13
+HCP00048,Internal Medicine,Northeast,-71.799,38.04,T17
+HCP00049,Geriatrics,Northeast,-80.442,45.341,T15
+HCP00050,Endocrinology,Northeast,-73.802,40.896,T18
+HCP00051,Cardiology,Northeast,-68.731,40.358,T18
+HCP00052,Endocrinology,West,-107.329,39.55,T6
+HCP00053,Nephrology,Northeast,-81.64,45.598,T15
+HCP00054,Endocrinology,West,-113.111,36.045,T1
+HCP00055,Endocrinology,South,-97.338,30.242,T4
+HCP00056,Cardiology,West,-117.188,35.41,T1
+HCP00057,Internal Medicine,Northeast,-75.591,41.925,T18
+HCP00058,Endocrinology,West,-113.145,32.621,T0
+HCP00059,Nephrology,South,-91.391,35.066,T9
+HCP00060,Internal Medicine,West,-111.295,36.395,T5
+HCP00061,Internal Medicine,South,-93.778,25.279,T4
+HCP00062,Cardiology,Midwest,-95.742,43.649,T7
+HCP00063,Internal Medicine,South,-90.04,29.13,T8
+HCP00064,Internal Medicine,South,-87.936,29.834,T12
+HCP00065,Cardiology,South,-90.171,31.205,T8
+HCP00066,Nephrology,West,-123.744,35.455,T1
+HCP00067,Cardiology,Northeast,-76.185,43.774,T19
+HCP00068,Endocrinology,West,-113.06,36.959,T1
+HCP00069,Endocrinology,Midwest,-94.184,38.823,T5
+HCP00070,Cardiology,West,-110.466,34.968,T5
+HCP00071,Cardiology,West,-116.129,35.274,T1
+HCP00072,Internal Medicine,Midwest,-96.722,40.031,T6
+HCP00073,Internal Medicine,Midwest,-95.968,44.906,T7
+HCP00074,Endocrinology,South,-88.049,32.43,T12
+HCP00075,Cardiology,Midwest,-90.005,47.25,T11
+HCP00076,Cardiology,Northeast,-67.241,45.357,T19
+HCP00077,Geriatrics,Northeast,-77.385,38.752,T13
+HCP00078,Cardiology,West,-113.643,36.292,T1
+HCP00079,Cardiology,West,-108.651,38.8,T5
+HCP00080,Internal Medicine,South,-90.239,33.816,T8
+HCP00081,Cardiology,West,-112.769,32.561,T0
+HCP00082,Nephrology,Northeast,-65.314,37.398,T17
+HCP00083,Cardiology,West,-119.47,40.448,T2
+HCP00084,Geriatrics,Northeast,-80.587,42.59,T15
+HCP00085,Cardiology,South,-92.11,32.249,T8
+HCP00086,Cardiology,West,-117.873,32.083,T0
+HCP00087,Internal Medicine,West,-112.022,32.702,T0
+HCP00088,Cardiology,Midwest,-95.197,40.671,T6
+HCP00089,Internal Medicine,South,-83.893,31.147,T12
+HCP00090,Endocrinology,Northeast,-67.781,43.498,T19
+HCP00091,Endocrinology,South,-84.56,31.486,T12
+HCP00092,Geriatrics,Northeast,-76.86,42.261,T14
+HCP00093,Geriatrics,South,-91.101,29.922,T8
+HCP00094,Internal Medicine,Midwest,-101.742,41.962,T6
+HCP00095,Internal Medicine,West,-117.966,36.133,T1
+HCP00096,Cardiology,Midwest,-98.858,36.429,T5
+HCP00097,Cardiology,South,-82.107,36.895,T13
+HCP00098,Internal Medicine,West,-120.729,37.061,T1
+HCP00099,Endocrinology,Northeast,-75.494,42.231,T18
+HCP00100,Endocrinology,South,-81.055,35.047,T13
+HCP00101,Cardiology,Midwest,-92.936,37.722,T9
+HCP00102,Internal Medicine,Northeast,-72.136,35.656,T17
+HCP00103,Nephrology,Northeast,-72.542,40.365,T18
+HCP00104,Endocrinology,West,-116.804,41.405,T2
+HCP00105,Cardiology,South,-88.855,30.11,T12
+HCP00106,Cardiology,Midwest,-92.457,45.282,T11
+HCP00107,Internal Medicine,Midwest,-91.317,37.837,T9
+HCP00108,Nephrology,West,-113.278,38.652,T1
+HCP00109,Endocrinology,Midwest,-97.707,44.304,T7
+HCP00110,Internal Medicine,South,-93.571,28.154,T8
+HCP00111,Cardiology,Northeast,-66.888,44.744,T19
+HCP00112,Internal Medicine,Midwest,-94.661,40.006,T6
+HCP00113,Cardiology,West,-119.371,40.528,T2
+HCP00114,Cardiology,West,-113.344,40.342,T2
+HCP00115,Endocrinology,West,-116.948,34.073,T0
+HCP00116,Internal Medicine,South,-90.469,29.051,T8
+HCP00117,Cardiology,Northeast,-75.318,39.004,T17
+HCP00118,Endocrinology,Northeast,-72.176,45.692,T19
+HCP00119,Internal Medicine,Northeast,-65.879,44.984,T19
+HCP00120,Cardiology,Midwest,-94.302,43.005,T7
+HCP00121,Cardiology,West,-118.008,35.744,T1
+HCP00122,Internal Medicine,West,-120.477,37.478,T1
+HCP00123,Cardiology,West,-117.902,31.691,T0
+HCP00124,Cardiology,West,-115.008,42.013,T2
+HCP00125,Cardiology,Midwest,-88.45,44.532,T15
+HCP00126,Cardiology,West,-111.656,31.077,T4
+HCP00127,Cardiology,Midwest,-86.226,40.56,T14
+HCP00128,Internal Medicine,Midwest,-90.518,40.112,T10
+HCP00129,Cardiology,South,-88.572,32.469,T12
+HCP00130,Cardiology,South,-91.388,26.146,T8
+HCP00131,Geriatrics,South,-90.025,29.177,T8
+HCP00132,Endocrinology,West,-110.592,35.977,T5
+HCP00133,Endocrinology,Midwest,-98.071,40.542,T6
+HCP00134,Internal Medicine,Northeast,-63.801,43.644,T19
+HCP00135,Endocrinology,Northeast,-74.297,35.544,T17
+HCP00136,Endocrinology,Northeast,-70.139,46.666,T19
+HCP00137,Cardiology,Midwest,-94.122,42.94,T7
+HCP00138,Endocrinology,West,-117.689,35.173,T1
+HCP00139,Internal Medicine,Northeast,-75.175,29.544,T16
+HCP00140,Cardiology,Midwest,-92.389,44.243,T11
+HCP00141,Nephrology,Northeast,-78.045,41.473,T14
+HCP00142,Internal Medicine,South,-88.985,30.7,T12
+HCP00143,Endocrinology,Midwest,-87.916,37.872,T13
+HCP00144,Endocrinology,Northeast,-64.577,46.001,T19
+HCP00145,Endocrinology,West,-114.065,37.466,T1
+HCP00146,Cardiology,West,-112.189,40.374,T2
+HCP00147,Geriatrics,Midwest,-95.913,40.962,T6
+HCP00148,Endocrinology,South,-88.794,32.151,T12
+HCP00149,Internal Medicine,Northeast,-72.426,39.763,T18
+HCP00150,Geriatrics,Midwest,-98.988,41.277,T6
+HCP00151,Internal Medicine,Midwest,-93.868,41.578,T6
+HCP00152,Cardiology,South,-87.849,26.412,T12
+HCP00153,Internal Medicine,West,-117.013,36.966,T1
+HCP00154,Endocrinology,West,-112.872,42.235,T2
+HCP00155,Internal Medicine,South,-88.774,29.954,T12
+HCP00156,Cardiology,Northeast,-67.636,38.451,T17
+HCP00157,Internal Medicine,South,-85.251,32.944,T12
+HCP00158,Internal Medicine,West,-117.226,38.079,T1
+HCP00159,Geriatrics,South,-84.254,32.656,T12
+HCP00160,Internal Medicine,Midwest,-86.955,41.55,T14
+HCP00161,Internal Medicine,West,-111.079,34.892,T5
+HCP00162,Cardiology,Northeast,-73.99,40.209,T18
+HCP00163,Internal Medicine,South,-88.738,32.606,T12
+HCP00164,Cardiology,Midwest,-96.45,40.167,T6
+HCP00165,Nephrology,West,-117.916,41.418,T2
+HCP00166,Internal Medicine,West,-114.693,39.243,T2
+HCP00167,Internal Medicine,West,-108.166,36.423,T5
+HCP00168,Cardiology,Northeast,-71.579,44.357,T19
+HCP00169,Internal Medicine,South,-88.188,33.011,T12
+HCP00170,Nephrology,South,-93.945,28.49,T4
+HCP00171,Internal Medicine,Midwest,-94.99,41.366,T6
+HCP00172,Endocrinology,Midwest,-97.38,39.377,T6
+HCP00173,Internal Medicine,Northeast,-72.957,43.949,T19
+HCP00174,Internal Medicine,South,-89.856,31.112,T8
+HCP00175,Internal Medicine,Midwest,-87.813,45.545,T15
+HCP00176,Cardiology,Midwest,-93.563,41.782,T10
+HCP00177,Cardiology,South,-87.309,32.195,T12
+HCP00178,Cardiology,Midwest,-94.13,41.82,T6
+HCP00179,Cardiology,South,-88.341,33.486,T12
+HCP00180,Cardiology,South,-94.133,34.238,T4
+HCP00181,Endocrinology,Midwest,-92.464,45.207,T11
+HCP00182,Nephrology,Northeast,-73.506,41.208,T18
+HCP00183,Internal Medicine,South,-88.751,35.037,T13
+HCP00184,Endocrinology,South,-90.459,30.208,T8
+HCP00185,Cardiology,South,-91.562,32.587,T8
+HCP00186,Endocrinology,West,-119.625,34.218,T0
+HCP00187,Internal Medicine,Northeast,-65.759,37.753,T17
+HCP00188,Internal Medicine,West,-107.622,38.432,T5
+HCP00189,Cardiology,Midwest,-90.003,39.493,T10
+HCP00190,Cardiology,Northeast,-71.928,43.602,T19
+HCP00191,Cardiology,South,-88.777,31.564,T12
+HCP00192,Nephrology,South,-86.052,36.552,T13
+HCP00193,Endocrinology,West,-106.315,36.759,T5
+HCP00194,Internal Medicine,South,-89.204,24.381,T8
+HCP00195,Endocrinology,Midwest,-99.483,44.125,T7
+HCP00196,Internal Medicine,South,-91.818,31.587,T8
+HCP00197,Cardiology,Midwest,-90.236,41.247,T10
+HCP00198,Endocrinology,Northeast,-67.033,44.518,T19
+HCP00199,Internal Medicine,Northeast,-79.597,43.431,T15
+HCP00200,Geriatrics,Northeast,-77.505,41.9,T14
+HCP00201,Internal Medicine,Northeast,-81.088,37.403,T13
+HCP00202,Internal Medicine,Midwest,-103.613,43.27,T7
+HCP00203,Geriatrics,South,-97.259,35.032,T5
+HCP00204,Internal Medicine,Midwest,-88.499,41.832,T14
+HCP00205,Endocrinology,Midwest,-92.57,41.694,T10
+HCP00206,Cardiology,West,-120.286,38.14,T1
+HCP00207,Cardiology,Northeast,-73.536,44.287,T19
+HCP00208,Internal Medicine,Midwest,-99.213,39.178,T6
+HCP00209,Endocrinology,West,-112.129,35.215,T1
+HCP00210,Cardiology,West,-120.119,42.6,T3
+HCP00211,Internal Medicine,Northeast,-73.997,42.903,T19
+HCP00212,Cardiology,Northeast,-71.607,44.014,T19
+HCP00213,Internal Medicine,South,-92.444,32.683,T8
+HCP00214,Geriatrics,Midwest,-84.452,36.25,T13
+HCP00215,Internal Medicine,Northeast,-67.916,37.619,T17
+HCP00216,Geriatrics,Northeast,-67.263,38.608,T17
+HCP00217,Cardiology,Northeast,-71.873,41.624,T18
+HCP00218,Geriatrics,Midwest,-95.53,38.788,T5
+HCP00219,Internal Medicine,West,-116.72,40.207,T2
+HCP00220,Endocrinology,Midwest,-94.783,44.265,T7
+HCP00221,Internal Medicine,Northeast,-67.784,40.601,T18
+HCP00222,Cardiology,Midwest,-93.755,43.418,T7
+HCP00223,Cardiology,Midwest,-93.211,38.139,T9
+HCP00224,Endocrinology,Midwest,-95.237,43.513,T7
+HCP00225,Endocrinology,Northeast,-73.291,44.919,T19
+HCP00226,Geriatrics,South,-90.974,26.623,T8
+HCP00227,Endocrinology,Midwest,-92.907,40.726,T10
+HCP00228,Cardiology,West,-117.291,37.803,T1
+HCP00229,Nephrology,South,-90.237,28.559,T8
+HCP00230,Endocrinology,West,-110.751,40.652,T6
+HCP00231,Cardiology,West,-115.637,41.394,T2
+HCP00232,Cardiology,West,-118.508,38.614,T1
+HCP00233,Endocrinology,Northeast,-71.458,43.379,T19
+HCP00234,Nephrology,Midwest,-89.915,43.661,T11
+HCP00235,Internal Medicine,South,-95.166,31.387,T4
+HCP00236,Internal Medicine,West,-116.083,37.939,T1
+HCP00237,Internal Medicine,Northeast,-76.126,39.03,T17
+HCP00238,Geriatrics,Midwest,-83.184,43.09,T15
+HCP00239,Internal Medicine,Midwest,-93.055,41.345,T10
+HCP00240,Geriatrics,West,-109.639,32.925,T4
+HCP00241,Cardiology,Northeast,-73.14,39.172,T18
+HCP00242,Endocrinology,Northeast,-63.291,45.126,T19
+HCP00243,Geriatrics,Northeast,-73.829,42.849,T19
+HCP00244,Geriatrics,South,-91.699,31.964,T8
+HCP00245,Nephrology,West,-109.31,36.213,T5
+HCP00246,Internal Medicine,Northeast,-69.81,41.628,T18
+HCP00247,Cardiology,West,-114.145,37.988,T1
+HCP00248,Internal Medicine,Northeast,-72.131,37.952,T17
+HCP00249,Cardiology,South,-86.646,29.323,T12
+HCP00250,Endocrinology,West,-116.059,39.588,T2
+HCP00251,Endocrinology,Midwest,-97.314,44.317,T7
+HCP00252,Internal Medicine,Northeast,-72.074,45.445,T19
+HCP00253,Endocrinology,South,-91.348,35.281,T9
+HCP00254,Cardiology,South,-89.108,31.004,T12
+HCP00255,Nephrology,Northeast,-73.485,40.814,T18
+HCP00256,Internal Medicine,South,-89.084,32.703,T12
+HCP00257,Endocrinology,West,-115.755,35.106,T1
+HCP00258,Nephrology,Midwest,-87.476,39.923,T14
+HCP00259,Internal Medicine,Northeast,-66.041,44.459,T19
+HCP00260,Endocrinology,Midwest,-94.598,45.597,T7
+HCP00261,Geriatrics,South,-90.491,37.96,T9
+HCP00262,Internal Medicine,West,-114.493,40.353,T2
+HCP00263,Cardiology,Northeast,-69.435,46.018,T19
+HCP00264,Geriatrics,Northeast,-74.059,48.03,T19
+HCP00265,Cardiology,Midwest,-96.712,44.371,T7
+HCP00266,Nephrology,Northeast,-72.118,43.542,T19
+HCP00267,Cardiology,Northeast,-74.848,44.872,T19
+HCP00268,Cardiology,Northeast,-70.634,42.3,T19
+HCP00269,Geriatrics,Northeast,-81.799,45.871,T15
+HCP00270,Cardiology,Midwest,-96.526,41.372,T6
+HCP00271,Internal Medicine,West,-124.106,34.946,T1
+HCP00272,Cardiology,West,-113.5,35.138,T1
+HCP00273,Cardiology,South,-90.082,36.606,T9
+HCP00274,Nephrology,Midwest,-96.784,42.754,T7
+HCP00275,Cardiology,Northeast,-69.587,44.199,T19
+HCP00276,Cardiology,West,-123.572,40.914,T2
+HCP00277,Endocrinology,South,-93.687,30.897,T4
+HCP00278,Geriatrics,South,-90.116,32.285,T8
+HCP00279,Cardiology,Midwest,-95.576,36.245,T5
+HCP00280,Cardiology,Midwest,-94.358,41.253,T6
+HCP00281,Cardiology,Midwest,-100.05,46.329,T7
+HCP00282,Cardiology,West,-110.57,38.936,T5
+HCP00283,Internal Medicine,South,-91.822,34.161,T8
+HCP00284,Cardiology,Midwest,-89.559,43.075,T11
+HCP00285,Internal Medicine,Northeast,-79.935,43.868,T15
+HCP00286,Internal Medicine,South,-88.259,35.65,T13
+HCP00287,Cardiology,Northeast,-77.177,40.996,T14
+HCP00288,Cardiology,Northeast,-73.766,46.993,T19
+HCP00289,Nephrology,Northeast,-69.9,42.825,T19
+HCP00290,Nephrology,Midwest,-88.183,38.905,T13
+HCP00291,Endocrinology,Midwest,-97.688,42.284,T6
+HCP00292,Endocrinology,Midwest,-96.467,45.819,T7
+HCP00293,Cardiology,West,-112.681,39.332,T2
+HCP00294,Geriatrics,Midwest,-99.332,39.75,T6
+HCP00295,Internal Medicine,Northeast,-72.233,43.272,T19
+HCP00296,Internal Medicine,West,-113.516,35.222,T1
+HCP00297,Internal Medicine,Northeast,-73.154,39.157,T18
+HCP00298,Internal Medicine,Midwest,-96.664,43.822,T7
+HCP00299,Nephrology,West,-116.278,39.166,T2
+HCP00300,Endocrinology,Northeast,-77.275,41.45,T14
+HCP00301,Cardiology,South,-89.979,31.991,T8
+HCP00302,Cardiology,Midwest,-103.056,42.492,T7
+HCP00303,Endocrinology,West,-116.237,42.016,T2
+HCP00304,Cardiology,Northeast,-75.475,47.257,T19
+HCP00305,Geriatrics,West,-119.902,38.998,T1
+HCP00306,Internal Medicine,West,-118.349,35.459,T1
+HCP00307,Endocrinology,Northeast,-69.882,41.213,T18
+HCP00308,Internal Medicine,West,-108.443,36.002,T5
+HCP00309,Cardiology,South,-93.049,25.883,T8
+HCP00310,Internal Medicine,South,-87.483,37.371,T13
+HCP00311,Nephrology,Northeast,-74.73,41.468,T18
+HCP00312,Cardiology,South,-88.772,28.494,T12
+HCP00313,Internal Medicine,Northeast,-79.502,35.065,T13
+HCP00314,Internal Medicine,Midwest,-91.615,37.046,T9
+HCP00315,Internal Medicine,Midwest,-89.843,42.124,T10
+HCP00316,Nephrology,Northeast,-73.128,44.593,T19
+HCP00317,Endocrinology,South,-90.029,32.289,T8
+HCP00318,Nephrology,Northeast,-67.564,42.719,T19
+HCP00319,Endocrinology,West,-120.318,40.799,T2
+HCP00320,Geriatrics,Midwest,-90.655,41.906,T10
+HCP00321,Internal Medicine,South,-96.114,33.07,T4
+HCP00322,Internal Medicine,South,-81.156,32.5,T12
+HCP00323,Nephrology,South,-91.44,29.738,T8
+HCP00324,Endocrinology,West,-114.053,36.397,T1
+HCP00325,Internal Medicine,Northeast,-72.667,48.714,T19
+HCP00326,Internal Medicine,West,-115.984,34.301,T0
+HCP00327,Cardiology,South,-93.383,29.489,T8
+HCP00328,Endocrinology,West,-116.438,35.67,T1
+HCP00329,Endocrinology,Midwest,-98.205,43.333,T7
+HCP00330,Cardiology,West,-117.06,36.044,T1
+HCP00331,Internal Medicine,West,-111.573,38.469,T5
+HCP00332,Nephrology,Northeast,-69.462,41.99,T18
+HCP00333,Internal Medicine,South,-93.755,32.88,T4
+HCP00334,Endocrinology,West,-119.061,41.075,T2
+HCP00335,Endocrinology,Northeast,-74.783,45.472,T19
+HCP00336,Endocrinology,Northeast,-76.634,40.75,T14
+HCP00337,Cardiology,Midwest,-87.209,37.689,T13
+HCP00338,Cardiology,West,-109.894,33.913,T4
+HCP00339,Cardiology,South,-79.712,27.451,T12
+HCP00340,Endocrinology,Midwest,-90.788,38.483,T9
+HCP00341,Internal Medicine,West,-126.503,37.288,T1
+HCP00342,Internal Medicine,Northeast,-80.188,41.609,T14
+HCP00343,Internal Medicine,West,-114.166,39.717,T2
+HCP00344,Endocrinology,Northeast,-72.777,46.135,T19
+HCP00345,Endocrinology,South,-93.109,34.468,T8
+HCP00346,Nephrology,West,-124.774,40.765,T2
+HCP00347,Internal Medicine,West,-114.353,39.207,T2
+HCP00348,Endocrinology,West,-110.285,40.304,T6
+HCP00349,Internal Medicine,Northeast,-70.284,46.465,T19
+HCP00350,Internal Medicine,West,-119.912,39.317,T2
+HCP00351,Endocrinology,West,-116.602,38.408,T1
+HCP00352,Internal Medicine,Midwest,-91.632,39.489,T10
+HCP00353,Internal Medicine,Northeast,-73.216,39.237,T18
+HCP00354,Cardiology,South,-90.245,35.927,T9
+HCP00355,Internal Medicine,Midwest,-92.517,38.444,T9
+HCP00356,Endocrinology,South,-90.712,31.557,T8
+HCP00357,Cardiology,West,-122.357,34.445,T0
+HCP00358,Geriatrics,South,-95.921,32.132,T4
+HCP00359,Nephrology,West,-118.878,32.436,T0
+HCP00360,Endocrinology,West,-118.805,37.048,T1
+HCP00361,Internal Medicine,Northeast,-74.822,41.669,T18
+HCP00362,Endocrinology,Midwest,-90.98,40.021,T10
+HCP00363,Internal Medicine,Northeast,-77.586,40.262,T14
+HCP00364,Cardiology,Northeast,-72.445,43.062,T19
+HCP00365,Endocrinology,Midwest,-92.07,42.079,T10
+HCP00366,Internal Medicine,Midwest,-90.801,43.253,T11
+HCP00367,Endocrinology,Northeast,-71.529,37.315,T17
+HCP00368,Internal Medicine,Midwest,-88.24,40.0,T14
+HCP00369,Internal Medicine,Midwest,-90.844,41.424,T10
+HCP00370,Internal Medicine,Midwest,-94.95,42.229,T6
+HCP00371,Cardiology,Midwest,-90.592,44.566,T11
+HCP00372,Nephrology,Northeast,-65.136,46.144,T19
+HCP00373,Endocrinology,Midwest,-88.533,37.592,T13
+HCP00374,Endocrinology,Northeast,-72.306,40.995,T18
+HCP00375,Cardiology,Northeast,-67.795,42.534,T19
+HCP00376,Nephrology,West,-119.953,38.703,T1
+HCP00377,Cardiology,West,-125.897,38.32,T1
+HCP00378,Cardiology,Northeast,-70.666,47.14,T19
+HCP00379,Internal Medicine,South,-88.784,29.429,T12
+HCP00380,Internal Medicine,West,-111.636,42.875,T7
+HCP00381,Internal Medicine,Northeast,-78.803,41.923,T14
+HCP00382,Internal Medicine,West,-113.694,41.085,T2
+HCP00383,Nephrology,West,-117.773,31.436,T0
+HCP00384,Internal Medicine,South,-91.26,34.449,T8
+HCP00385,Internal Medicine,Midwest,-90.0,43.239,T11
+HCP00386,Endocrinology,South,-97.087,31.214,T4
+HCP00387,Internal Medicine,Northeast,-70.64,35.965,T17
+HCP00388,Cardiology,South,-95.046,37.617,T5
+HCP00389,Geriatrics,West,-112.202,35.055,T1
+HCP00390,Geriatrics,South,-83.793,35.005,T13
+HCP00391,Cardiology,Midwest,-96.546,42.824,T7
+HCP00392,Nephrology,West,-118.15,38.221,T1
+HCP00393,Endocrinology,West,-115.019,37.691,T1
+HCP00394,Endocrinology,Midwest,-97.075,38.318,T5
+HCP00395,Cardiology,South,-93.07,31.352,T8
+HCP00396,Cardiology,Midwest,-89.027,40.021,T14
+HCP00397,Cardiology,Midwest,-97.847,36.111,T5
+HCP00398,Endocrinology,South,-94.516,27.363,T4
+HCP00399,Internal Medicine,Northeast,-70.842,41.643,T18
+HCP00400,Endocrinology,Midwest,-91.151,46.454,T11
+HCP00401,Endocrinology,South,-85.449,29.985,T12
+HCP00402,Internal Medicine,Midwest,-94.213,39.143,T6
+HCP00403,Geriatrics,Northeast,-76.95,39.712,T14
+HCP00404,Nephrology,West,-111.316,36.153,T5
+HCP00405,Cardiology,Northeast,-72.615,47.532,T19
+HCP00406,Endocrinology,South,-91.928,35.14,T9
+HCP00407,Endocrinology,South,-97.14,34.198,T4
+HCP00408,Geriatrics,West,-118.104,39.277,T2
+HCP00409,Endocrinology,Northeast,-69.431,37.153,T17
+HCP00410,Nephrology,Midwest,-92.423,43.347,T11
+HCP00411,Internal Medicine,Northeast,-68.372,42.982,T19
+HCP00412,Endocrinology,Northeast,-76.93,45.966,T15
+HCP00413,Cardiology,Northeast,-66.153,42.411,T19
+HCP00414,Cardiology,Midwest,-94.492,45.307,T7
+HCP00415,Cardiology,South,-89.424,27.77,T8
+HCP00416,Cardiology,Northeast,-73.567,42.603,T19
+HCP00417,Internal Medicine,South,-94.294,31.761,T4
+HCP00418,Nephrology,Midwest,-89.6,38.98,T9
+HCP00419,Internal Medicine,West,-115.291,32.041,T0
+HCP00420,Cardiology,West,-117.564,33.139,T0
+HCP00421,Cardiology,South,-83.821,32.622,T12
+HCP00422,Internal Medicine,Midwest,-102.649,47.584,T7
+HCP00423,Internal Medicine,Northeast,-76.846,36.177,T13
+HCP00424,Endocrinology,Midwest,-85.097,41.918,T14
+HCP00425,Endocrinology,South,-89.26,36.939,T9
+HCP00426,Cardiology,Midwest,-89.564,42.413,T11
+HCP00427,Cardiology,South,-87.074,36.606,T13
+HCP00428,Internal Medicine,West,-115.574,37.513,T1
+HCP00429,Internal Medicine,South,-86.48,33.42,T12
+HCP00430,Internal Medicine,West,-115.49,35.551,T1
+HCP00431,Internal Medicine,Northeast,-70.726,37.02,T17
+HCP00432,Nephrology,South,-94.403,32.896,T4
+HCP00433,Internal Medicine,West,-122.736,40.688,T2
+HCP00434,Geriatrics,West,-116.882,43.436,T3
+HCP00435,Nephrology,South,-90.689,31.005,T8
+HCP00436,Endocrinology,South,-84.861,31.898,T12
+HCP00437,Internal Medicine,West,-115.861,35.047,T1
+HCP00438,Geriatrics,Midwest,-93.379,42.943,T11
+HCP00439,Internal Medicine,Northeast,-61.509,44.389,T19
+HCP00440,Nephrology,South,-95.534,24.373,T4
+HCP00441,Endocrinology,Midwest,-89.551,49.111,T11
+HCP00442,Endocrinology,Midwest,-96.154,41.802,T6
+HCP00443,Cardiology,South,-94.28,26.833,T4
+HCP00444,Nephrology,Midwest,-91.168,48.03,T11
+HCP00445,Internal Medicine,Northeast,-73.914,45.202,T19
+HCP00446,Internal Medicine,South,-95.721,29.39,T4
+HCP00447,Internal Medicine,South,-99.715,34.302,T4
+HCP00448,Endocrinology,Midwest,-94.474,35.6,T5
+HCP00449,Internal Medicine,Northeast,-75.239,39.466,T18
+HCP00450,Nephrology,West,-110.109,37.211,T5
+HCP00451,Internal Medicine,West,-115.428,36.175,T1
+HCP00452,Internal Medicine,South,-88.477,31.395,T12
+HCP00453,Cardiology,West,-121.122,38.583,T1
+HCP00454,Internal Medicine,West,-122.764,38.665,T1
+HCP00455,Cardiology,South,-95.777,27.7,T4
+HCP00456,Internal Medicine,South,-86.105,29.372,T12
+HCP00457,Internal Medicine,Midwest,-89.847,45.415,T11
+HCP00458,Endocrinology,West,-114.577,35.412,T1
+HCP00459,Nephrology,Northeast,-75.791,37.301,T17
+HCP00460,Nephrology,Northeast,-77.053,39.347,T14
+HCP00461,Nephrology,South,-94.919,32.406,T4
+HCP00462,Endocrinology,South,-86.628,38.335,T13
+HCP00463,Cardiology,West,-112.771,38.978,T1
+HCP00464,Cardiology,South,-86.996,32.896,T12
+HCP00465,Cardiology,Midwest,-88.103,40.388,T14
+HCP00466,Endocrinology,Midwest,-97.89,40.764,T6
+HCP00467,Internal Medicine,Northeast,-70.692,42.291,T19
+HCP00468,Internal Medicine,Midwest,-93.233,37.937,T9
+HCP00469,Endocrinology,West,-118.3,38.369,T1
+HCP00470,Endocrinology,Northeast,-72.302,42.161,T18
+HCP00471,Geriatrics,South,-90.282,28.461,T8
+HCP00472,Cardiology,West,-108.427,37.751,T5
+HCP00473,Nephrology,Northeast,-72.558,36.876,T17
+HCP00474,Nephrology,West,-115.657,38.202,T1
+HCP00475,Cardiology,West,-108.829,40.425,T6
+HCP00476,Cardiology,Northeast,-74.567,42.018,T18
+HCP00477,Endocrinology,South,-89.489,33.033,T8
+HCP00478,Endocrinology,West,-110.714,35.571,T5
+HCP00479,Nephrology,Midwest,-88.495,37.86,T13
+HCP00480,Cardiology,South,-91.347,28.599,T8
+HCP00481,Endocrinology,Northeast,-74.266,40.121,T18
+HCP00482,Geriatrics,Midwest,-95.744,38.588,T5
+HCP00483,Endocrinology,West,-118.933,34.992,T1
+HCP00484,Cardiology,Northeast,-68.52,43.89,T19
+HCP00485,Cardiology,Midwest,-86.897,45.499,T15
+HCP00486,Cardiology,Midwest,-92.705,38.323,T9
+HCP00487,Internal Medicine,Midwest,-97.732,45.537,T7
+HCP00488,Nephrology,South,-88.486,30.621,T12
+HCP00489,Internal Medicine,South,-91.165,33.394,T8
+HCP00490,Nephrology,West,-111.679,35.751,T5
+HCP00491,Internal Medicine,West,-130.215,35.646,T1
+HCP00492,Endocrinology,West,-109.709,33.972,T4
+HCP00493,Cardiology,South,-88.342,34.505,T12
+HCP00494,Endocrinology,Northeast,-74.278,39.322,T18
+HCP00495,Internal Medicine,Northeast,-75.064,40.546,T18
+HCP00496,Geriatrics,Northeast,-78.538,39.936,T14
+HCP00497,Endocrinology,Northeast,-73.096,39.12,T18
+HCP00498,Internal Medicine,South,-90.246,30.692,T8
+HCP00499,Endocrinology,Midwest,-97.797,38.426,T5
+HCP00500,Cardiology,Midwest,-89.359,45.216,T11
+HCP00501,Internal Medicine,South,-91.656,32.909,T8
+HCP00502,Endocrinology,Midwest,-87.066,37.686,T13
+HCP00503,Internal Medicine,West,-109.953,41.882,T6
+HCP00504,Internal Medicine,Midwest,-97.334,41.275,T6
+HCP00505,Geriatrics,South,-75.524,30.603,T16
+HCP00506,Endocrinology,Northeast,-72.745,37.832,T17
+HCP00507,Endocrinology,Northeast,-79.36,42.126,T14
+HCP00508,Internal Medicine,West,-118.851,37.121,T1
+HCP00509,Cardiology,West,-109.634,35.528,T5
+HCP00510,Nephrology,West,-120.019,40.683,T2
+HCP00511,Cardiology,Midwest,-90.033,43.254,T11
+HCP00512,Internal Medicine,Northeast,-77.919,42.273,T14
+HCP00513,Endocrinology,West,-117.579,40.112,T2
+HCP00514,Cardiology,South,-100.202,30.112,T4
+HCP00515,Nephrology,Midwest,-99.483,41.376,T6
+HCP00516,Cardiology,Northeast,-75.547,40.749,T18
+HCP00517,Cardiology,South,-93.13,38.17,T9
+HCP00518,Endocrinology,Northeast,-77.79,43.248,T15
+HCP00519,Endocrinology,South,-91.636,28.917,T8
+HCP00520,Internal Medicine,West,-114.61,40.319,T2
+HCP00521,Internal Medicine,Northeast,-72.872,43.473,T19
+HCP00522,Nephrology,Northeast,-72.752,39.316,T18
+HCP00523,Cardiology,Midwest,-88.945,39.036,T13
+HCP00524,Nephrology,South,-87.559,31.484,T12
+HCP00525,Endocrinology,West,-114.684,34.846,T1
+HCP00526,Internal Medicine,West,-117.951,39.275,T2
+HCP00527,Geriatrics,Midwest,-93.918,42.233,T6
+HCP00528,Internal Medicine,Midwest,-88.034,43.65,T15
+HCP00529,Geriatrics,West,-118.556,37.506,T1
+HCP00530,Internal Medicine,West,-107.926,41.412,T6
+HCP00531,Internal Medicine,South,-93.895,35.715,T5
+HCP00532,Cardiology,West,-111.862,37.632,T1
+HCP00533,Endocrinology,West,-115.017,39.774,T2
+HCP00534,Internal Medicine,South,-92.099,32.916,T8
+HCP00535,Cardiology,West,-115.079,38.238,T1
+HCP00536,Endocrinology,West,-116.491,39.301,T2
+HCP00537,Cardiology,West,-111.576,41.419,T6
+HCP00538,Endocrinology,Northeast,-75.516,44.969,T19
+HCP00539,Internal Medicine,Midwest,-97.071,38.366,T5
+HCP00540,Geriatrics,Midwest,-87.156,44.045,T15
+HCP00541,Internal Medicine,West,-114.202,40.029,T2
+HCP00542,Internal Medicine,Midwest,-97.159,47.608,T7
+HCP00543,Internal Medicine,West,-118.608,41.15,T2
+HCP00544,Endocrinology,Northeast,-79.727,42.442,T15
+HCP00545,Endocrinology,Midwest,-94.776,42.334,T7
+HCP00546,Internal Medicine,Northeast,-69.828,42.653,T19
+HCP00547,Nephrology,South,-93.604,31.939,T8
+HCP00548,Geriatrics,Northeast,-74.062,44.257,T19
+HCP00549,Cardiology,West,-119.005,37.579,T1
+HCP00550,Nephrology,Northeast,-70.023,44.575,T19
+HCP00551,Nephrology,Northeast,-78.98,39.013,T13
+HCP00552,Endocrinology,Midwest,-91.439,42.629,T11
+HCP00553,Cardiology,Northeast,-65.615,51.723,T19
+HCP00554,Nephrology,Midwest,-92.56,44.625,T11
+HCP00555,Endocrinology,West,-114.655,36.946,T1
+HCP00556,Internal Medicine,South,-90.028,32.367,T8
+HCP00557,Internal Medicine,Midwest,-93.014,44.541,T11
+HCP00558,Nephrology,South,-87.621,39.246,T14
+HCP00559,Cardiology,Midwest,-92.589,43.327,T11
+HCP00560,Nephrology,South,-87.994,33.553,T12
+HCP00561,Cardiology,Midwest,-93.716,46.659,T7
+HCP00562,Endocrinology,West,-113.2,38.933,T1
+HCP00563,Geriatrics,South,-86.95,32.941,T12
+HCP00564,Endocrinology,South,-85.581,33.759,T12
+HCP00565,Cardiology,South,-84.633,30.163,T12
+HCP00566,Cardiology,Midwest,-95.597,36.321,T5
+HCP00567,Cardiology,Midwest,-94.938,44.768,T7
+HCP00568,Endocrinology,Northeast,-74.901,44.748,T19
+HCP00569,Cardiology,Northeast,-72.994,40.397,T18
+HCP00570,Internal Medicine,South,-85.275,30.145,T12
+HCP00571,Nephrology,Northeast,-70.16,45.709,T19
+HCP00572,Endocrinology,Midwest,-93.473,44.906,T11
+HCP00573,Cardiology,South,-88.169,29.2,T12
+HCP00574,Cardiology,Midwest,-92.535,46.624,T11
+HCP00575,Cardiology,South,-84.924,35.472,T13
+HCP00576,Endocrinology,South,-84.829,28.966,T12
+HCP00577,Cardiology,South,-93.966,29.613,T4
+HCP00578,Geriatrics,Northeast,-72.206,46.606,T19
+HCP00579,Cardiology,South,-94.75,28.196,T4
+HCP00580,Nephrology,Midwest,-96.776,40.928,T6
+HCP00581,Geriatrics,West,-111.212,35.238,T5
+HCP00582,Internal Medicine,Midwest,-90.351,40.489,T10
+HCP00583,Cardiology,Midwest,-99.181,42.995,T7
+HCP00584,Internal Medicine,South,-79.592,34.069,T12
+HCP00585,Cardiology,Midwest,-89.857,40.253,T10
+HCP00586,Cardiology,Midwest,-97.299,45.599,T7
+HCP00587,Cardiology,West,-115.903,31.379,T0
+HCP00588,Internal Medicine,Midwest,-92.289,45.708,T11
+HCP00589,Endocrinology,West,-118.532,38.24,T1
+HCP00590,Cardiology,Northeast,-73.452,43.029,T19
+HCP00591,Endocrinology,South,-91.767,35.066,T9
+HCP00592,Internal Medicine,Northeast,-64.815,42.438,T19
+HCP00593,Endocrinology,West,-114.241,36.045,T1
+HCP00594,Endocrinology,Midwest,-93.517,40.67,T10
+HCP00595,Nephrology,Northeast,-72.155,42.863,T19
+HCP00596,Cardiology,Northeast,-71.09,42.753,T19
+HCP00597,Cardiology,Northeast,-76.122,43.068,T19
+HCP00598,Internal Medicine,Midwest,-94.817,43.05,T7
+HCP00599,Cardiology,West,-117.316,39.39,T2
+HCP00600,Endocrinology,South,-97.763,35.301,T5
+HCP00601,Endocrinology,West,-123.024,37.972,T1
+HCP00602,Cardiology,South,-88.272,33.838,T12
+HCP00603,Internal Medicine,Northeast,-69.908,39.295,T18
+HCP00604,Endocrinology,Midwest,-88.743,40.449,T14
+HCP00605,Internal Medicine,West,-115.605,37.561,T1
+HCP00606,Internal Medicine,South,-93.449,33.183,T8
+HCP00607,Endocrinology,West,-109.781,37.91,T5
+HCP00608,Internal Medicine,West,-117.194,35.567,T1
+HCP00609,Internal Medicine,Midwest,-92.554,40.088,T10
+HCP00610,Internal Medicine,Midwest,-86.032,33.809,T12
+HCP00611,Cardiology,South,-88.652,33.305,T12
+HCP00612,Endocrinology,Northeast,-71.183,42.08,T18
+HCP00613,Endocrinology,West,-121.68,41.337,T2
+HCP00614,Nephrology,Northeast,-68.396,40.09,T18
+HCP00615,Geriatrics,Northeast,-72.821,42.869,T19
+HCP00616,Internal Medicine,Midwest,-90.197,41.98,T10
+HCP00617,Endocrinology,West,-119.429,37.026,T1
+HCP00618,Internal Medicine,Northeast,-74.848,40.668,T18
+HCP00619,Cardiology,South,-83.884,34.086,T12
+HCP00620,Endocrinology,Midwest,-86.292,39.601,T14
+HCP00621,Nephrology,Northeast,-73.883,44.749,T19
+HCP00622,Internal Medicine,Midwest,-93.273,42.992,T11
+HCP00623,Cardiology,West,-115.046,31.954,T0
+HCP00624,Cardiology,West,-117.207,35.652,T1
+HCP00625,Internal Medicine,West,-117.304,36.991,T1
+HCP00626,Endocrinology,South,-100.252,32.776,T4
+HCP00627,Cardiology,West,-114.358,35.601,T1
+HCP00628,Internal Medicine,Midwest,-93.608,36.121,T5
+HCP00629,Endocrinology,West,-122.512,39.045,T2
+HCP00630,Endocrinology,Northeast,-76.423,45.127,T15
+HCP00631,Endocrinology,South,-87.902,33.187,T12
+HCP00632,Cardiology,Midwest,-98.042,41.615,T6
+HCP00633,Endocrinology,Midwest,-97.279,40.559,T6
+HCP00634,Endocrinology,Northeast,-68.056,44.743,T19
+HCP00635,Endocrinology,South,-89.348,37.213,T9
+HCP00636,Endocrinology,Midwest,-94.503,39.303,T6
+HCP00637,Endocrinology,Northeast,-69.675,39.892,T18
+HCP00638,Endocrinology,West,-116.54,35.264,T1
+HCP00639,Cardiology,West,-109.278,40.453,T6
+HCP00640,Cardiology,Midwest,-95.42,38.522,T5
+HCP00641,Geriatrics,Northeast,-71.68,46.653,T19
+HCP00642,Internal Medicine,Northeast,-82.285,43.28,T15
+HCP00643,Cardiology,South,-85.02,32.819,T12
+HCP00644,Cardiology,South,-94.121,29.034,T4
+HCP00645,Cardiology,Northeast,-72.312,42.395,T19
+HCP00646,Geriatrics,Northeast,-74.417,40.139,T18
+HCP00647,Cardiology,West,-109.298,41.266,T6
+HCP00648,Nephrology,West,-116.221,34.479,T0
+HCP00649,Cardiology,Northeast,-77.254,39.525,T14
+HCP00650,Endocrinology,Northeast,-82.861,42.328,T15
+HCP00651,Internal Medicine,South,-89.389,33.072,T8
+HCP00652,Internal Medicine,Midwest,-99.002,39.525,T6
+HCP00653,Nephrology,Northeast,-69.141,39.15,T18
+HCP00654,Cardiology,Midwest,-96.351,46.057,T7
+HCP00655,Endocrinology,Northeast,-73.132,40.762,T18
+HCP00656,Internal Medicine,South,-90.03,28.973,T8
+HCP00657,Endocrinology,West,-114.542,35.02,T1
+HCP00658,Internal Medicine,Midwest,-85.205,41.062,T14
+HCP00659,Internal Medicine,South,-81.777,30.96,T12
+HCP00660,Cardiology,West,-114.729,35.248,T1
+HCP00661,Endocrinology,South,-85.012,35.197,T13
+HCP00662,Endocrinology,South,-90.445,33.161,T8
+HCP00663,Cardiology,Midwest,-87.788,36.468,T13
+HCP00664,Geriatrics,Northeast,-70.383,37.801,T17
+HCP00665,Geriatrics,South,-90.693,27.506,T8
+HCP00666,Internal Medicine,Midwest,-95.606,38.337,T5
+HCP00667,Endocrinology,Northeast,-72.354,37.967,T17
+HCP00668,Internal Medicine,West,-110.576,36.26,T5
+HCP00669,Internal Medicine,Midwest,-89.187,40.525,T10
+HCP00670,Cardiology,West,-110.793,39.536,T6
+HCP00671,Endocrinology,Midwest,-100.112,41.77,T6
+HCP00672,Endocrinology,West,-109.748,42.146,T6
+HCP00673,Cardiology,Northeast,-76.307,42.294,T15
+HCP00674,Endocrinology,West,-118.884,34.537,T0
+HCP00675,Nephrology,South,-94.175,39.412,T6
+HCP00676,Endocrinology,Midwest,-100.198,41.751,T6
+HCP00677,Internal Medicine,West,-113.259,38.112,T1
+HCP00678,Internal Medicine,Midwest,-89.502,33.874,T8
+HCP00679,Nephrology,Northeast,-77.97,42.683,T15
+HCP00680,Geriatrics,Northeast,-71.094,35.213,T17
+HCP00681,Cardiology,West,-115.207,36.511,T1
+HCP00682,Cardiology,West,-116.176,36.53,T1
+HCP00683,Nephrology,South,-83.971,30.287,T12
+HCP00684,Cardiology,South,-88.302,36.39,T13
+HCP00685,Geriatrics,Midwest,-85.062,38.602,T13
+HCP00686,Endocrinology,Northeast,-78.322,38.018,T13
+HCP00687,Cardiology,Northeast,-74.632,36.733,T17
+HCP00688,Cardiology,Northeast,-69.874,42.112,T18
+HCP00689,Internal Medicine,West,-117.065,36.55,T1
+HCP00690,Nephrology,Northeast,-74.67,44.829,T19
+HCP00691,Internal Medicine,Midwest,-88.083,40.965,T14
+HCP00692,Nephrology,West,-110.228,37.849,T5
+HCP00693,Endocrinology,Northeast,-75.911,43.586,T19
+HCP00694,Endocrinology,South,-93.91,31.12,T4
+HCP00695,Internal Medicine,Northeast,-72.434,45.468,T19
+HCP00696,Cardiology,Midwest,-90.283,44.569,T11
+HCP00697,Cardiology,Midwest,-96.318,44.097,T7
+HCP00698,Endocrinology,South,-89.076,27.799,T12
+HCP00699,Cardiology,Northeast,-73.465,36.3,T17
+HCP00700,Endocrinology,Midwest,-95.681,42.402,T7
+HCP00701,Nephrology,West,-122.825,34.866,T1
+HCP00702,Cardiology,South,-94.461,29.655,T4
+HCP00703,Nephrology,West,-107.481,36.571,T5
+HCP00704,Internal Medicine,South,-98.398,32.592,T4
+HCP00705,Internal Medicine,Midwest,-91.874,39.043,T10
+HCP00706,Endocrinology,Northeast,-71.85,41.375,T18
+HCP00707,Nephrology,Midwest,-98.633,39.729,T6
+HCP00708,Internal Medicine,South,-84.492,31.058,T12
+HCP00709,Internal Medicine,South,-90.798,32.6,T8
+HCP00710,Cardiology,Northeast,-70.127,44.111,T19
+HCP00711,Geriatrics,West,-112.156,39.295,T2
+HCP00712,Cardiology,Northeast,-70.974,39.233,T18
+HCP00713,Endocrinology,West,-115.412,38.794,T1
+HCP00714,Internal Medicine,Midwest,-96.92,41.354,T6
+HCP00715,Geriatrics,West,-109.137,34.927,T5
+HCP00716,Internal Medicine,Midwest,-86.478,42.691,T15
+HCP00717,Cardiology,South,-101.733,34.796,T5
+HCP00718,Internal Medicine,West,-115.611,41.63,T2
+HCP00719,Nephrology,West,-115.357,40.394,T2
+HCP00720,Internal Medicine,West,-115.943,40.816,T2
+HCP00721,Internal Medicine,Midwest,-92.003,44.708,T11
+HCP00722,Internal Medicine,Northeast,-72.381,43.635,T19
+HCP00723,Internal Medicine,South,-95.093,30.526,T4
+HCP00724,Cardiology,South,-92.026,33.734,T8
+HCP00725,Cardiology,Northeast,-66.977,42.003,T18
+HCP00726,Cardiology,Midwest,-80.662,35.352,T13
+HCP00727,Internal Medicine,Midwest,-94.933,40.827,T6
+HCP00728,Nephrology,Midwest,-95.027,45.148,T7
+HCP00729,Geriatrics,Northeast,-69.316,39.911,T18
+HCP00730,Endocrinology,South,-96.126,32.994,T4
+HCP00731,Cardiology,Northeast,-77.403,44.08,T15
+HCP00732,Endocrinology,Northeast,-69.252,37.299,T17
+HCP00733,Cardiology,Northeast,-74.844,36.558,T17
+HCP00734,Internal Medicine,South,-91.924,30.684,T8
+HCP00735,Internal Medicine,Northeast,-76.087,40.917,T18
+HCP00736,Nephrology,South,-92.026,32.473,T8
+HCP00737,Nephrology,South,-92.139,33.911,T8
+HCP00738,Internal Medicine,Northeast,-67.89,34.988,T17
+HCP00739,Cardiology,Midwest,-92.912,39.653,T10
+HCP00740,Endocrinology,Midwest,-87.763,45.456,T15
+HCP00741,Nephrology,Northeast,-68.713,46.077,T19
+HCP00742,Endocrinology,Northeast,-72.739,42.34,T19
+HCP00743,Cardiology,West,-117.518,40.215,T2
+HCP00744,Nephrology,Midwest,-90.845,39.391,T10
+HCP00745,Internal Medicine,West,-115.395,39.663,T2
+HCP00746,Geriatrics,Midwest,-96.209,44.941,T7
+HCP00747,Internal Medicine,Northeast,-69.094,42.365,T19
+HCP00748,Endocrinology,South,-85.843,29.608,T12
+HCP00749,Nephrology,West,-115.95,37.344,T1
+HCP00750,Nephrology,West,-113.161,38.575,T1
+HCP00751,Geriatrics,Midwest,-92.045,47.226,T11
+HCP00752,Cardiology,South,-96.655,34.518,T4
+HCP00753,Internal Medicine,Northeast,-71.419,38.815,T17
+HCP00754,Cardiology,South,-92.482,32.503,T8
+HCP00755,Endocrinology,South,-87.966,33.017,T12
+HCP00756,Cardiology,West,-115.822,37.964,T1
+HCP00757,Endocrinology,West,-119.233,42.854,T3
+HCP00758,Internal Medicine,South,-91.513,35.093,T9
+HCP00759,Cardiology,West,-116.092,33.818,T0
+HCP00760,Geriatrics,Northeast,-75.42,44.444,T19
+HCP00761,Internal Medicine,Midwest,-90.585,42.339,T11
+HCP00762,Endocrinology,South,-88.852,30.345,T12
+HCP00763,Internal Medicine,Northeast,-74.308,39.335,T18
+HCP00764,Endocrinology,Northeast,-74.419,40.306,T18
+HCP00765,Internal Medicine,South,-89.847,26.358,T8
+HCP00766,Cardiology,Midwest,-99.218,42.013,T6
+HCP00767,Cardiology,West,-119.434,37.45,T1
+HCP00768,Internal Medicine,Midwest,-91.203,44.498,T11
+HCP00769,Internal Medicine,West,-119.693,39.796,T2
+HCP00770,Internal Medicine,Northeast,-74.204,44.197,T19
+HCP00771,Endocrinology,Northeast,-72.68,41.68,T18
+HCP00772,Internal Medicine,Midwest,-90.623,43.977,T11
+HCP00773,Endocrinology,South,-86.91,27.963,T12
+HCP00774,Internal Medicine,Northeast,-72.551,40.487,T18
+HCP00775,Internal Medicine,Northeast,-73.18,36.251,T17
+HCP00776,Cardiology,West,-117.954,38.631,T1
+HCP00777,Cardiology,Midwest,-97.166,41.559,T6
+HCP00778,Cardiology,South,-88.268,32.462,T12
+HCP00779,Endocrinology,South,-87.282,29.03,T12
+HCP00780,Cardiology,West,-109.91,36.518,T5
+HCP00781,Nephrology,South,-86.88,27.961,T12
+HCP00782,Internal Medicine,Midwest,-92.04,38.036,T9
+HCP00783,Endocrinology,Northeast,-71.594,37.71,T17
+HCP00784,Geriatrics,Midwest,-97.557,38.585,T5
+HCP00785,Internal Medicine,Northeast,-75.365,43.633,T19
+HCP00786,Cardiology,Northeast,-78.703,42.8,T15
+HCP00787,Internal Medicine,Northeast,-76.78,40.106,T14
+HCP00788,Nephrology,Midwest,-88.643,44.253,T15
+HCP00789,Endocrinology,Midwest,-87.38,37.369,T13
+HCP00790,Nephrology,South,-88.944,30.584,T12
+HCP00791,Endocrinology,South,-84.379,32.997,T12
+HCP00792,Endocrinology,Midwest,-84.828,49.766,T15
+HCP00793,Endocrinology,West,-115.431,38.378,T1
+HCP00794,Internal Medicine,Midwest,-88.584,43.931,T15
+HCP00795,Cardiology,West,-115.833,38.904,T1
+HCP00796,Internal Medicine,West,-114.032,39.172,T2
+HCP00797,Cardiology,Northeast,-78.802,42.972,T15
+HCP00798,Internal Medicine,West,-110.667,36.94,T5
+HCP00799,Internal Medicine,Midwest,-95.544,40.143,T6
+HCP00800,Endocrinology,West,-119.299,37.292,T1
+HCP00801,Cardiology,Northeast,-73.91,39.6,T18
+HCP00802,Cardiology,West,-114.216,39.933,T2
+HCP00803,Cardiology,Midwest,-89.186,43.94,T11
+HCP00804,Internal Medicine,West,-114.101,34.603,T0
+HCP00805,Cardiology,South,-91.21,30.81,T8
+HCP00806,Geriatrics,West,-114.377,34.979,T1
+HCP00807,Geriatrics,South,-91.377,29.271,T8
+HCP00808,Internal Medicine,West,-122.697,39.391,T2
+HCP00809,Geriatrics,Midwest,-88.522,40.465,T14
+HCP00810,Endocrinology,South,-96.143,32.049,T4
+HCP00811,Internal Medicine,South,-91.472,30.132,T8
+HCP00812,Endocrinology,South,-98.337,33.781,T4
+HCP00813,Internal Medicine,Northeast,-81.531,43.423,T15
+HCP00814,Internal Medicine,Northeast,-73.929,37.354,T17
+HCP00815,Cardiology,Midwest,-95.674,45.847,T7
+HCP00816,Internal Medicine,Northeast,-69.142,40.113,T18
+HCP00817,Endocrinology,Northeast,-73.155,36.483,T17
+HCP00818,Internal Medicine,West,-121.684,38.017,T1
+HCP00819,Internal Medicine,Northeast,-71.893,43.732,T19
+HCP00820,Cardiology,West,-113.559,34.64,T0
+HCP00821,Cardiology,South,-89.163,34.103,T8
+HCP00822,Internal Medicine,South,-85.997,34.774,T12
+HCP00823,Endocrinology,West,-109.129,37.796,T5
+HCP00824,Nephrology,South,-82.53,32.336,T12
+HCP00825,Internal Medicine,Midwest,-93.986,43.34,T7
+HCP00826,Cardiology,Northeast,-77.109,40.301,T14
+HCP00827,Internal Medicine,South,-85.4,33.667,T12
+HCP00828,Internal Medicine,South,-89.863,32.528,T8
+HCP00829,Cardiology,Northeast,-66.254,45.83,T19
+HCP00830,Internal Medicine,West,-115.935,36.198,T1
+HCP00831,Internal Medicine,West,-108.558,34.42,T4
+HCP00832,Internal Medicine,Midwest,-85.043,43.857,T15
+HCP00833,Internal Medicine,Northeast,-75.026,40.093,T18
+HCP00834,Endocrinology,Midwest,-89.226,42.604,T11
+HCP00835,Cardiology,South,-89.533,24.173,T8
+HCP00836,Endocrinology,Northeast,-69.897,44.844,T19
+HCP00837,Cardiology,West,-121.07,35.627,T1
+HCP00838,Internal Medicine,South,-86.781,27.724,T12
+HCP00839,Internal Medicine,Midwest,-93.42,38.064,T9
+HCP00840,Geriatrics,West,-111.106,36.837,T5
+HCP00841,Internal Medicine,Midwest,-87.756,39.171,T14
+HCP00842,Nephrology,South,-88.484,30.717,T12
+HCP00843,Internal Medicine,South,-87.079,29.856,T12
+HCP00844,Internal Medicine,South,-87.287,35.094,T13
+HCP00845,Internal Medicine,Northeast,-76.675,44.011,T15
+HCP00846,Endocrinology,South,-93.436,35.758,T9
+HCP00847,Nephrology,South,-85.697,33.692,T12
+HCP00848,Geriatrics,Northeast,-68.317,43.596,T19
+HCP00849,Internal Medicine,West,-116.731,37.716,T1
+HCP00850,Internal Medicine,Midwest,-87.928,45.381,T15
+HCP00851,Geriatrics,West,-113.247,37.911,T1
+HCP00852,Cardiology,West,-118.206,31.29,T0
+HCP00853,Internal Medicine,Northeast,-66.419,45.402,T19
+HCP00854,Cardiology,Midwest,-91.745,39.042,T9
+HCP00855,Cardiology,Northeast,-77.175,44.193,T15
+HCP00856,Nephrology,South,-92.923,30.492,T8
+HCP00857,Endocrinology,Northeast,-76.08,41.915,T18
+HCP00858,Internal Medicine,Northeast,-70.957,36.953,T17
+HCP00859,Cardiology,Northeast,-67.525,47.181,T19
+HCP00860,Nephrology,West,-119.101,37.677,T1
+HCP00861,Internal Medicine,West,-113.169,35.338,T1
+HCP00862,Endocrinology,Northeast,-66.676,45.949,T19
+HCP00863,Cardiology,Northeast,-73.979,40.352,T18
+HCP00864,Geriatrics,Northeast,-70.76,41.106,T18
+HCP00865,Cardiology,South,-95.55,29.905,T4
+HCP00866,Internal Medicine,Northeast,-70.167,42.357,T19
+HCP00867,Endocrinology,South,-88.882,44.174,T15
+HCP00868,Internal Medicine,South,-88.363,32.54,T12
+HCP00869,Internal Medicine,South,-90.437,32.499,T8
+HCP00870,Internal Medicine,Midwest,-91.779,38.504,T9
+HCP00871,Cardiology,South,-95.565,30.593,T4
+HCP00872,Cardiology,Northeast,-75.115,38.998,T17
+HCP00873,Internal Medicine,Midwest,-90.831,42.652,T11
+HCP00874,Internal Medicine,West,-107.658,42.258,T6
+HCP00875,Endocrinology,South,-87.687,33.948,T12
+HCP00876,Internal Medicine,Northeast,-78.29,42.198,T14
+HCP00877,Nephrology,South,-94.571,32.723,T4
+HCP00878,Internal Medicine,South,-96.089,31.879,T4
+HCP00879,Cardiology,Midwest,-95.701,41.881,T6
+HCP00880,Geriatrics,South,-88.74,34.683,T12
+HCP00881,Internal Medicine,West,-121.169,42.524,T3
+HCP00882,Nephrology,West,-110.419,36.334,T5
+HCP00883,Internal Medicine,Midwest,-97.235,41.109,T6
+HCP00884,Internal Medicine,Midwest,-91.91,47.608,T11
+HCP00885,Geriatrics,Northeast,-71.421,38.345,T17
+HCP00886,Internal Medicine,West,-119.588,37.678,T1
+HCP00887,Cardiology,West,-116.933,40.182,T2
+HCP00888,Nephrology,Midwest,-99.502,37.825,T5
+HCP00889,Nephrology,South,-86.841,35.995,T13
+HCP00890,Endocrinology,West,-112.974,31.371,T0
+HCP00891,Endocrinology,Midwest,-94.363,35.866,T5
+HCP00892,Internal Medicine,West,-110.991,30.147,T4
+HCP00893,Internal Medicine,Northeast,-72.702,40.198,T18
+HCP00894,Geriatrics,Northeast,-74.513,43.013,T19
+HCP00895,Internal Medicine,West,-109.151,40.462,T6
+HCP00896,Endocrinology,Northeast,-67.349,38.006,T17
+HCP00897,Cardiology,Midwest,-92.86,45.971,T11
+HCP00898,Endocrinology,South,-85.8,32.357,T12
+HCP00899,Cardiology,South,-92.114,30.505,T8
+HCP00900,Internal Medicine,South,-90.379,32.255,T8
+HCP00901,Endocrinology,South,-94.003,28.906,T4
+HCP00902,Nephrology,South,-88.604,34.11,T12
+HCP00903,Cardiology,West,-122.352,35.208,T1
+HCP00904,Geriatrics,West,-121.175,38.52,T1
+HCP00905,Cardiology,West,-107.704,39.554,T6
+HCP00906,Cardiology,South,-84.788,30.395,T12
+HCP00907,Geriatrics,South,-92.165,29.124,T8
+HCP00908,Endocrinology,West,-112.842,42.38,T3
+HCP00909,Geriatrics,West,-105.271,44.406,T7
+HCP00910,Internal Medicine,West,-116.099,40.741,T2
+HCP00911,Endocrinology,Midwest,-92.085,37.897,T9
+HCP00912,Internal Medicine,West,-122.44,37.367,T1
+HCP00913,Internal Medicine,West,-111.111,38.356,T5
+HCP00914,Endocrinology,West,-113.541,35.918,T1
+HCP00915,Internal Medicine,West,-116.877,35.517,T1
+HCP00916,Cardiology,West,-109.046,37.643,T5
+HCP00917,Endocrinology,Midwest,-91.065,41.611,T10
+HCP00918,Internal Medicine,South,-96.033,30.773,T4
+HCP00919,Endocrinology,South,-88.689,30.048,T12
+HCP00920,Cardiology,West,-115.643,36.943,T1
+HCP00921,Cardiology,West,-111.353,45.174,T7
+HCP00922,Cardiology,South,-78.619,34.261,T12
+HCP00923,Endocrinology,Midwest,-93.351,40.352,T10
+HCP00924,Nephrology,West,-118.48,37.95,T1
+HCP00925,Endocrinology,South,-93.608,33.952,T4
+HCP00926,Endocrinology,West,-113.269,41.779,T2
+HCP00927,Endocrinology,West,-115.678,38.111,T1
+HCP00928,Cardiology,Midwest,-93.509,41.076,T10
+HCP00929,Endocrinology,South,-85.039,30.781,T12
+HCP00930,Internal Medicine,South,-83.266,35.049,T13
+HCP00931,Internal Medicine,Midwest,-97.747,38.229,T5
+HCP00932,Endocrinology,Midwest,-89.288,40.867,T10
+HCP00933,Internal Medicine,Midwest,-93.346,40.171,T10
+HCP00934,Internal Medicine,Northeast,-72.36,46.638,T19
+HCP00935,Nephrology,Midwest,-86.981,38.321,T13
+HCP00936,Endocrinology,West,-112.63,37.232,T1
+HCP00937,Nephrology,West,-114.012,36.089,T1
+HCP00938,Cardiology,West,-116.42,34.923,T1
+HCP00939,Internal Medicine,South,-90.856,32.871,T8
+HCP00940,Internal Medicine,South,-89.23,33.192,T8
+HCP00941,Cardiology,South,-85.774,30.7,T12
+HCP00942,Internal Medicine,West,-117.306,40.317,T2
+HCP00943,Internal Medicine,Northeast,-79.974,48.815,T15
+HCP00944,Internal Medicine,Midwest,-90.623,45.289,T11
+HCP00945,Geriatrics,Midwest,-92.051,39.149,T10
+HCP00946,Cardiology,South,-88.652,39.097,T14
+HCP00947,Internal Medicine,Midwest,-90.986,42.135,T10
+HCP00948,Endocrinology,South,-91.127,32.7,T8
+HCP00949,Cardiology,South,-79.784,30.433,T12
+HCP00950,Internal Medicine,West,-120.701,39.209,T2
+HCP00951,Cardiology,Midwest,-86.48,38.446,T13
+HCP00952,Endocrinology,Northeast,-67.127,44.716,T19
+HCP00953,Cardiology,West,-117.598,41.277,T2
+HCP00954,Internal Medicine,South,-92.774,30.19,T8
+HCP00955,Cardiology,West,-112.84,34.429,T0
+HCP00956,Cardiology,West,-117.63,41.627,T2
+HCP00957,Nephrology,West,-117.558,35.786,T1
+HCP00958,Internal Medicine,South,-90.456,32.437,T8
+HCP00959,Internal Medicine,Midwest,-87.811,42.443,T15
+HCP00960,Endocrinology,South,-82.612,30.441,T12
+HCP00961,Cardiology,West,-115.459,38.121,T1
+HCP00962,Internal Medicine,Northeast,-67.827,37.493,T17
+HCP00963,Internal Medicine,Northeast,-73.94,42.018,T18
+HCP00964,Endocrinology,South,-92.632,34.401,T8
+HCP00965,Cardiology,South,-87.592,32.005,T12
+HCP00966,Geriatrics,Midwest,-92.156,41.959,T10
+HCP00967,Internal Medicine,West,-112.779,38.828,T1
+HCP00968,Endocrinology,Northeast,-78.641,41.58,T14
+HCP00969,Nephrology,South,-96.498,34.782,T5
+HCP00970,Nephrology,South,-95.644,29.324,T4
+HCP00971,Internal Medicine,Midwest,-90.646,43.297,T11
+HCP00972,Cardiology,South,-84.94,29.565,T12
+HCP00973,Cardiology,West,-116.365,37.471,T1
+HCP00974,Internal Medicine,West,-115.683,42.107,T2
+HCP00975,Endocrinology,West,-122.183,37.163,T1
+HCP00976,Endocrinology,Midwest,-83.694,45.629,T15
+HCP00977,Internal Medicine,Midwest,-89.937,44.172,T11
+HCP00978,Internal Medicine,Northeast,-72.935,42.832,T19
+HCP00979,Endocrinology,South,-89.118,28.976,T12
+HCP00980,Cardiology,West,-120.071,40.069,T2
+HCP00981,Internal Medicine,West,-113.322,36.694,T1
+HCP00982,Nephrology,West,-122.014,40.29,T2
+HCP00983,Cardiology,Northeast,-78.777,43.332,T15
+HCP00984,Cardiology,Northeast,-77.607,37.223,T13
+HCP00985,Geriatrics,Northeast,-78.101,45.895,T15
+HCP00986,Endocrinology,Midwest,-94.206,40.622,T6
+HCP00987,Internal Medicine,Midwest,-91.266,37.382,T9
+HCP00988,Nephrology,Northeast,-73.541,45.592,T19
+HCP00989,Endocrinology,Northeast,-64.647,40.514,T18
+HCP00990,Endocrinology,South,-93.324,31.077,T8
+HCP00991,Nephrology,West,-107.157,43.802,T7
+HCP00992,Nephrology,West,-112.261,39.126,T2
+HCP00993,Cardiology,Northeast,-71.2,40.27,T18
+HCP00994,Nephrology,Northeast,-71.568,41.442,T18
+HCP00995,Nephrology,West,-109.707,42.271,T6
+HCP00996,Endocrinology,Midwest,-96.307,43.95,T7
+HCP00997,Cardiology,West,-112.473,36.894,T1
+HCP00998,Endocrinology,South,-91.123,31.545,T8
+HCP00999,Nephrology,Midwest,-92.793,47.978,T11
+HCP01000,Cardiology,Midwest,-91.103,44.566,T11
+HCP01001,Endocrinology,Northeast,-78.247,38.723,T13
+HCP01002,Internal Medicine,Midwest,-91.186,45.607,T11
+HCP01003,Cardiology,West,-117.028,35.476,T1
+HCP01004,Internal Medicine,Midwest,-92.731,44.018,T11
+HCP01005,Cardiology,Northeast,-69.34,42.248,T18
+HCP01006,Endocrinology,West,-114.994,44.841,T3
+HCP01007,Nephrology,Midwest,-94.68,43.423,T7
+HCP01008,Nephrology,West,-120.842,37.44,T1
+HCP01009,Endocrinology,Midwest,-94.406,42.205,T6
+HCP01010,Internal Medicine,South,-84.378,32.569,T12
+HCP01011,Nephrology,Northeast,-73.504,42.714,T19
+HCP01012,Nephrology,South,-96.335,39.094,T6
+HCP01013,Endocrinology,Northeast,-71.974,46.93,T19
+HCP01014,Internal Medicine,West,-114.128,38.459,T1
+HCP01015,Cardiology,West,-114.39,42.24,T2
+HCP01016,Internal Medicine,Midwest,-95.41,39.253,T6
+HCP01017,Endocrinology,Midwest,-89.634,43.912,T11
+HCP01018,Internal Medicine,Midwest,-88.437,41.565,T14
+HCP01019,Geriatrics,South,-88.968,32.817,T12
+HCP01020,Internal Medicine,Northeast,-64.678,46.148,T19
+HCP01021,Cardiology,Northeast,-74.151,40.399,T18
+HCP01022,Cardiology,South,-94.302,27.092,T4
+HCP01023,Internal Medicine,South,-91.517,30.478,T8
+HCP01024,Nephrology,South,-87.711,34.191,T12
+HCP01025,Cardiology,Northeast,-73.076,39.803,T18
+HCP01026,Endocrinology,West,-115.274,40.51,T2
+HCP01027,Nephrology,Northeast,-77.154,42.526,T15
+HCP01028,Cardiology,West,-115.301,32.401,T0
+HCP01029,Cardiology,West,-118.965,39.78,T2
+HCP01030,Internal Medicine,South,-90.724,31.802,T8
+HCP01031,Internal Medicine,West,-113.609,37.544,T1
+HCP01032,Internal Medicine,South,-89.934,32.003,T8
+HCP01033,Nephrology,South,-90.84,27.857,T8
+HCP01034,Cardiology,West,-113.338,35.989,T1
+HCP01035,Endocrinology,Midwest,-92.116,42.184,T10
+HCP01036,Cardiology,Northeast,-80.37,42.508,T15
+HCP01037,Endocrinology,South,-90.72,25.14,T8
+HCP01038,Endocrinology,West,-114.992,37.161,T1
+HCP01039,Internal Medicine,South,-95.482,29.741,T4
+HCP01040,Internal Medicine,West,-112.992,39.09,T2
+HCP01041,Cardiology,Midwest,-91.075,38.767,T9
+HCP01042,Endocrinology,Northeast,-75.194,42.58,T19
+HCP01043,Endocrinology,Northeast,-78.924,38.486,T13
+HCP01044,Nephrology,Midwest,-86.608,44.023,T15
+HCP01045,Nephrology,West,-117.246,38.074,T1
+HCP01046,Internal Medicine,West,-117.572,40.429,T2
+HCP01047,Nephrology,Midwest,-98.535,36.698,T5
+HCP01048,Cardiology,Northeast,-67.332,42.88,T19
+HCP01049,Nephrology,Northeast,-74.76,42.434,T19
+HCP01050,Internal Medicine,Midwest,-94.086,42.667,T7
+HCP01051,Internal Medicine,Northeast,-69.692,45.495,T19
+HCP01052,Internal Medicine,West,-115.312,38.378,T1
+HCP01053,Cardiology,Midwest,-94.405,41.593,T6
+HCP01054,Cardiology,Midwest,-85.023,44.744,T15
+HCP01055,Cardiology,South,-90.817,36.498,T9
+HCP01056,Nephrology,South,-86.954,25.972,T12
+HCP01057,Internal Medicine,South,-88.84,27.468,T12
+HCP01058,Geriatrics,Northeast,-65.716,42.918,T19
+HCP01059,Internal Medicine,West,-109.902,35.059,T5
+HCP01060,Internal Medicine,South,-98.902,33.222,T4
+HCP01061,Endocrinology,South,-85.919,27.655,T12
+HCP01062,Geriatrics,South,-90.914,34.662,T8
+HCP01063,Cardiology,Midwest,-96.318,41.33,T6
+HCP01064,Cardiology,West,-108.673,38.269,T5
+HCP01065,Nephrology,Midwest,-88.747,40.663,T14
+HCP01066,Nephrology,West,-114.295,38.824,T1
+HCP01067,Endocrinology,Midwest,-94.424,40.127,T6
+HCP01068,Geriatrics,West,-117.649,33.682,T0
+HCP01069,Internal Medicine,Midwest,-91.366,43.57,T11
+HCP01070,Internal Medicine,South,-95.407,23.437,T4
+HCP01071,Internal Medicine,Northeast,-69.303,38.552,T17
+HCP01072,Nephrology,South,-85.48,30.502,T12
+HCP01073,Endocrinology,South,-86.336,32.956,T12
+HCP01074,Nephrology,Midwest,-86.969,44.199,T15
+HCP01075,Cardiology,South,-91.722,35.019,T9
+HCP01076,Endocrinology,Northeast,-70.66,44.964,T19
+HCP01077,Internal Medicine,South,-80.989,29.44,T12
+HCP01078,Endocrinology,Northeast,-75.888,42.896,T19
+HCP01079,Internal Medicine,South,-89.321,32.945,T8
+HCP01080,Internal Medicine,Northeast,-71.888,36.267,T17
+HCP01081,Nephrology,West,-109.628,42.048,T6
+HCP01082,Nephrology,West,-114.572,37.877,T1
+HCP01083,Geriatrics,Midwest,-85.887,41.912,T14
+HCP01084,Internal Medicine,Northeast,-66.495,42.306,T19
+HCP01085,Internal Medicine,West,-108.064,42.385,T7
+HCP01086,Internal Medicine,Northeast,-70.089,35.78,T17
+HCP01087,Internal Medicine,South,-86.278,35.829,T13
+HCP01088,Geriatrics,South,-90.987,26.539,T8
+HCP01089,Endocrinology,West,-105.638,38.806,T5
+HCP01090,Cardiology,Midwest,-96.361,36.467,T5
+HCP01091,Geriatrics,West,-117.068,42.005,T2
+HCP01092,Nephrology,South,-88.846,27.638,T12
+HCP01093,Nephrology,South,-90.918,30.581,T8
+HCP01094,Endocrinology,Midwest,-97.098,41.744,T6
+HCP01095,Cardiology,West,-124.962,37.01,T1
+HCP01096,Endocrinology,West,-115.542,38.393,T1
+HCP01097,Endocrinology,South,-91.594,32.035,T8
+HCP01098,Nephrology,South,-91.958,33.444,T8
+HCP01099,Nephrology,South,-88.364,30.76,T12
+HCP01100,Cardiology,Midwest,-94.45,40.815,T6
+HCP01101,Internal Medicine,Northeast,-72.08,42.736,T19
+HCP01102,Endocrinology,West,-116.162,42.474,T3
+HCP01103,Internal Medicine,West,-118.463,34.082,T0
+HCP01104,Cardiology,Midwest,-96.226,44.474,T7
+HCP01105,Cardiology,Northeast,-75.17,44.455,T19
+HCP01106,Nephrology,South,-89.315,32.285,T8
+HCP01107,Internal Medicine,West,-112.971,36.888,T1
+HCP01108,Cardiology,Northeast,-78.173,43.544,T15
+HCP01109,Cardiology,South,-95.602,35.704,T5
+HCP01110,Nephrology,Northeast,-70.061,42.317,T19
+HCP01111,Nephrology,Northeast,-68.623,37.788,T17
+HCP01112,Nephrology,Midwest,-85.493,44.347,T15
+HCP01113,Endocrinology,Northeast,-77.206,41.592,T14
+HCP01114,Internal Medicine,West,-113.402,41.186,T2
+HCP01115,Internal Medicine,Northeast,-73.46,43.172,T19
+HCP01116,Cardiology,Midwest,-90.606,43.739,T11
+HCP01117,Cardiology,West,-117.81,39.691,T2
+HCP01118,Cardiology,West,-109.397,35.033,T5
+HCP01119,Cardiology,South,-90.467,31.44,T8
+HCP01120,Cardiology,South,-93.449,29.712,T8
+HCP01121,Endocrinology,West,-113.379,42.96,T3
+HCP01122,Internal Medicine,Northeast,-71.206,40.505,T18
+HCP01123,Endocrinology,South,-88.0,33.995,T12
+HCP01124,Cardiology,South,-87.007,33.043,T12
+HCP01125,Nephrology,West,-114.07,32.952,T0
+HCP01126,Internal Medicine,West,-117.558,36.379,T1
+HCP01127,Endocrinology,Midwest,-91.648,44.3,T11
+HCP01128,Internal Medicine,Midwest,-94.984,44.706,T7
+HCP01129,Internal Medicine,Northeast,-76.227,46.364,T19
+HCP01130,Cardiology,Midwest,-91.663,43.863,T11
+HCP01131,Geriatrics,South,-84.494,28.637,T12
+HCP01132,Cardiology,Midwest,-94.957,42.168,T6
+HCP01133,Cardiology,Midwest,-92.666,41.416,T10
+HCP01134,Cardiology,West,-117.257,38.795,T1
+HCP01135,Geriatrics,South,-93.427,34.951,T9
+HCP01136,Geriatrics,Midwest,-95.001,46.75,T7
+HCP01137,Cardiology,West,-115.701,35.591,T1
+HCP01138,Internal Medicine,Midwest,-95.14,39.007,T5
+HCP01139,Nephrology,Northeast,-70.75,43.231,T19
+HCP01140,Internal Medicine,West,-115.549,40.742,T2
+HCP01141,Cardiology,South,-95.435,30.624,T4
+HCP01142,Cardiology,Northeast,-64.213,40.254,T18
+HCP01143,Geriatrics,Northeast,-79.546,45.515,T15
+HCP01144,Cardiology,Midwest,-94.765,42.942,T7
+HCP01145,Internal Medicine,Northeast,-73.553,44.86,T19
+HCP01146,Cardiology,South,-99.549,27.619,T4
+HCP01147,Geriatrics,South,-84.055,29.439,T12
+HCP01148,Nephrology,Midwest,-88.234,41.656,T14
+HCP01149,Nephrology,South,-84.406,33.705,T12
+HCP01150,Cardiology,South,-88.407,34.936,T13
+HCP01151,Endocrinology,Northeast,-70.0,44.236,T19
+HCP01152,Nephrology,South,-89.162,36.082,T13
+HCP01153,Internal Medicine,Northeast,-72.066,44.425,T19
+HCP01154,Endocrinology,South,-89.377,32.773,T8
+HCP01155,Cardiology,Midwest,-97.214,37.152,T5
+HCP01156,Internal Medicine,South,-86.233,35.233,T13
+HCP01157,Cardiology,Midwest,-91.484,45.813,T11
+HCP01158,Geriatrics,South,-86.215,35.583,T13
+HCP01159,Internal Medicine,Northeast,-73.033,40.147,T18
+HCP01160,Internal Medicine,South,-89.871,31.444,T8
+HCP01161,Cardiology,Northeast,-70.627,39.237,T18
+HCP01162,Internal Medicine,Northeast,-64.884,43.575,T19
+HCP01163,Endocrinology,Northeast,-72.777,44.299,T19
+HCP01164,Internal Medicine,Northeast,-68.928,41.19,T18
+HCP01165,Internal Medicine,West,-117.153,39.52,T2
+HCP01166,Internal Medicine,Northeast,-79.147,37.312,T13
+HCP01167,Cardiology,Northeast,-72.309,41.872,T18
+HCP01168,Endocrinology,Midwest,-97.368,42.206,T6
+HCP01169,Geriatrics,Midwest,-91.924,44.124,T11
+HCP01170,Internal Medicine,Northeast,-74.091,45.088,T19
+HCP01171,Internal Medicine,West,-114.213,40.706,T2
+HCP01172,Internal Medicine,West,-116.178,35.534,T1
+HCP01173,Internal Medicine,Northeast,-73.572,46.248,T19
+HCP01174,Cardiology,West,-120.84,40.21,T2
+HCP01175,Endocrinology,South,-92.838,36.621,T9
+HCP01176,Internal Medicine,Northeast,-72.979,40.63,T18
+HCP01177,Nephrology,South,-90.677,33.419,T8
+HCP01178,Internal Medicine,West,-124.838,33.285,T0
+HCP01179,Internal Medicine,Midwest,-93.024,44.044,T11
+HCP01180,Endocrinology,Northeast,-69.822,45.207,T19
+HCP01181,Internal Medicine,West,-119.772,43.326,T3
+HCP01182,Endocrinology,Midwest,-87.005,41.634,T14
+HCP01183,Cardiology,Midwest,-90.231,41.125,T10
+HCP01184,Cardiology,Northeast,-78.669,38.287,T13
+HCP01185,Internal Medicine,South,-78.847,28.624,T12
+HCP01186,Cardiology,West,-108.457,41.075,T6
+HCP01187,Internal Medicine,Northeast,-75.514,36.061,T17
+HCP01188,Nephrology,Midwest,-90.605,41.528,T10
+HCP01189,Cardiology,South,-90.267,34.259,T8
+HCP01190,Nephrology,Midwest,-94.672,41.126,T6
+HCP01191,Internal Medicine,South,-96.726,25.394,T4
+HCP01192,Geriatrics,Midwest,-96.255,41.141,T6
+HCP01193,Internal Medicine,South,-83.683,33.949,T12
+HCP01194,Internal Medicine,West,-120.452,40.245,T2
+HCP01195,Nephrology,Northeast,-74.772,41.238,T18
+HCP01196,Cardiology,South,-87.717,29.471,T12
+HCP01197,Internal Medicine,South,-88.324,33.994,T12
+HCP01198,Internal Medicine,Midwest,-84.459,43.459,T15
+HCP01199,Endocrinology,West,-120.752,38.233,T1
+HCP01200,Nephrology,South,-89.968,30.331,T8
+HCP01201,Cardiology,West,-111.755,40.448,T2
+HCP01202,Internal Medicine,Midwest,-93.363,46.227,T11
+HCP01203,Endocrinology,South,-91.388,33.611,T8
+HCP01204,Cardiology,Northeast,-81.451,41.322,T14
+HCP01205,Endocrinology,South,-90.009,35.094,T9
+HCP01206,Geriatrics,West,-124.089,39.312,T2
+HCP01207,Geriatrics,Northeast,-69.666,43.788,T19
+HCP01208,Endocrinology,Northeast,-77.309,40.474,T14
+HCP01209,Endocrinology,Midwest,-85.227,45.219,T15
+HCP01210,Internal Medicine,West,-116.603,35.191,T1
+HCP01211,Endocrinology,Northeast,-70.169,42.331,T19
+HCP01212,Cardiology,South,-88.712,37.587,T13
+HCP01213,Internal Medicine,South,-96.22,32.685,T4
+HCP01214,Internal Medicine,Midwest,-94.984,35.688,T5
+HCP01215,Internal Medicine,South,-85.403,30.563,T12
+HCP01216,Nephrology,Midwest,-89.848,39.845,T10
+HCP01217,Nephrology,South,-95.843,35.725,T5
+HCP01218,Geriatrics,Midwest,-94.095,46.218,T7
+HCP01219,Endocrinology,South,-87.357,29.233,T12
+HCP01220,Cardiology,Midwest,-88.801,41.441,T14
+HCP01221,Endocrinology,Northeast,-70.684,41.328,T18
+HCP01222,Geriatrics,West,-110.419,37.374,T5
+HCP01223,Endocrinology,South,-84.903,30.291,T12
+HCP01224,Cardiology,West,-115.403,37.009,T1
+HCP01225,Cardiology,Northeast,-66.143,40.148,T18
+HCP01226,Internal Medicine,Midwest,-96.241,42.535,T7
+HCP01227,Cardiology,West,-114.335,36.252,T1
+HCP01228,Internal Medicine,South,-90.88,35.088,T9
+HCP01229,Endocrinology,West,-112.054,39.893,T2
+HCP01230,Internal Medicine,West,-112.523,39.338,T2
+HCP01231,Cardiology,Northeast,-73.505,40.451,T18
+HCP01232,Cardiology,West,-116.977,35.901,T1
+HCP01233,Geriatrics,West,-115.748,36.03,T1
+HCP01234,Endocrinology,South,-86.643,37.372,T13
+HCP01235,Cardiology,West,-121.625,37.537,T1
+HCP01236,Endocrinology,Midwest,-99.743,39.324,T6
+HCP01237,Endocrinology,South,-86.886,27.627,T12
+HCP01238,Cardiology,South,-91.807,37.354,T9
+HCP01239,Cardiology,Northeast,-75.772,42.911,T19
+HCP01240,Endocrinology,Midwest,-95.362,42.737,T7
+HCP01241,Cardiology,Midwest,-88.298,40.074,T14
+HCP01242,Cardiology,West,-112.826,33.08,T0
+HCP01243,Internal Medicine,Midwest,-93.42,42.941,T11
+HCP01244,Nephrology,Northeast,-74.52,44.986,T19
+HCP01245,Endocrinology,West,-131.661,39.422,T2
+HCP01246,Cardiology,West,-109.458,37.793,T5
+HCP01247,Internal Medicine,Northeast,-77.228,39.332,T14
+HCP01248,Cardiology,West,-115.473,32.663,T0
+HCP01249,Cardiology,South,-85.308,30.626,T12
+HCP01250,Internal Medicine,Northeast,-77.022,40.917,T14
+HCP01251,Endocrinology,Northeast,-73.547,44.535,T19
+HCP01252,Cardiology,West,-113.0,37.834,T1
+HCP01253,Internal Medicine,South,-84.331,34.551,T12
+HCP01254,Endocrinology,Midwest,-91.169,42.971,T11
+HCP01255,Endocrinology,Northeast,-80.874,39.85,T14
+HCP01256,Internal Medicine,West,-114.701,38.31,T1
+HCP01257,Nephrology,West,-117.876,34.371,T0
+HCP01258,Cardiology,Midwest,-97.895,42.48,T7
+HCP01259,Endocrinology,Northeast,-68.141,39.369,T18
+HCP01260,Cardiology,Northeast,-77.362,40.249,T14
+HCP01261,Endocrinology,Northeast,-80.389,43.806,T15
+HCP01262,Cardiology,Northeast,-77.978,37.536,T13
+HCP01263,Endocrinology,Northeast,-79.938,32.718,T12
+HCP01264,Geriatrics,Midwest,-94.944,43.558,T7
+HCP01265,Cardiology,South,-100.904,31.812,T4
+HCP01266,Internal Medicine,South,-94.158,22.638,T4
+HCP01267,Internal Medicine,West,-115.918,29.17,T0
+HCP01268,Endocrinology,Northeast,-68.232,44.457,T19
+HCP01269,Cardiology,South,-91.105,28.564,T8
+HCP01270,Endocrinology,Northeast,-68.264,42.35,T19
+HCP01271,Internal Medicine,South,-89.55,32.694,T8
+HCP01272,Geriatrics,Northeast,-73.097,44.091,T19
+HCP01273,Cardiology,Midwest,-85.621,43.735,T15
+HCP01274,Cardiology,Midwest,-90.493,42.644,T11
+HCP01275,Endocrinology,Northeast,-72.381,45.079,T19
+HCP01276,Internal Medicine,South,-91.948,29.557,T8
+HCP01277,Internal Medicine,Midwest,-87.785,44.667,T15
+HCP01278,Geriatrics,South,-95.557,32.245,T4
+HCP01279,Cardiology,Northeast,-75.198,42.29,T19
+HCP01280,Endocrinology,South,-90.59,32.273,T8
+HCP01281,Cardiology,Midwest,-91.817,44.841,T11
+HCP01282,Internal Medicine,West,-113.292,33.916,T0
+HCP01283,Cardiology,Midwest,-91.121,39.179,T10
+HCP01284,Internal Medicine,Midwest,-91.909,41.291,T10
+HCP01285,Internal Medicine,South,-86.265,38.389,T13
+HCP01286,Endocrinology,Northeast,-72.34,39.89,T18
+HCP01287,Geriatrics,West,-115.871,37.945,T1
+HCP01288,Cardiology,Midwest,-92.031,41.999,T10
+HCP01289,Endocrinology,Northeast,-68.928,45.057,T19
+HCP01290,Cardiology,South,-100.054,27.729,T4
+HCP01291,Internal Medicine,South,-96.281,34.526,T4
+HCP01292,Endocrinology,Northeast,-69.826,41.02,T18
+HCP01293,Internal Medicine,Midwest,-86.286,42.999,T15
+HCP01294,Cardiology,Midwest,-90.475,40.233,T10
+HCP01295,Internal Medicine,Midwest,-92.679,45.66,T11
+HCP01296,Endocrinology,West,-117.449,36.949,T1
+HCP01297,Nephrology,Midwest,-92.425,42.804,T11
+HCP01298,Endocrinology,Midwest,-96.173,41.209,T6
+HCP01299,Cardiology,South,-88.303,31.727,T12
+HCP01300,Nephrology,Midwest,-89.12,39.594,T14
+HCP01301,Cardiology,West,-109.059,40.893,T6
+HCP01302,Endocrinology,Northeast,-71.546,42.885,T19
+HCP01303,Endocrinology,Northeast,-77.93,42.701,T15
+HCP01304,Cardiology,Midwest,-93.024,41.882,T10
+HCP01305,Cardiology,Northeast,-69.801,39.39,T18
+HCP01306,Internal Medicine,Midwest,-84.373,38.947,T13
+HCP01307,Endocrinology,South,-93.61,35.504,T5
+HCP01308,Endocrinology,Northeast,-80.879,41.787,T14
+HCP01309,Internal Medicine,South,-91.201,32.002,T8
+HCP01310,Endocrinology,Northeast,-68.345,39.491,T18
+HCP01311,Cardiology,West,-110.755,39.625,T6
+HCP01312,Cardiology,South,-88.442,30.055,T12
+HCP01313,Endocrinology,West,-114.46,39.898,T2
+HCP01314,Internal Medicine,West,-114.774,35.073,T1
+HCP01315,Internal Medicine,Northeast,-82.711,44.371,T15
+HCP01316,Internal Medicine,West,-123.162,39.358,T2
+HCP01317,Internal Medicine,West,-118.104,42.807,T3
+HCP01318,Cardiology,West,-118.474,39.715,T2
+HCP01319,Cardiology,Midwest,-92.488,39.98,T10
+HCP01320,Internal Medicine,West,-116.708,38.037,T1
+HCP01321,Internal Medicine,Midwest,-92.568,49.313,T11
+HCP01322,Cardiology,West,-115.343,40.632,T2
+HCP01323,Cardiology,Midwest,-94.255,43.901,T7
+HCP01324,Geriatrics,South,-89.486,33.64,T8
+HCP01325,Endocrinology,West,-121.01,43.591,T3
+HCP01326,Endocrinology,Midwest,-93.936,40.339,T6
+HCP01327,Endocrinology,South,-89.068,39.641,T14
+HCP01328,Nephrology,West,-117.724,34.574,T0
+HCP01329,Endocrinology,Northeast,-75.398,44.42,T19
+HCP01330,Cardiology,South,-84.274,27.263,T12
+HCP01331,Internal Medicine,Midwest,-89.88,45.947,T11
+HCP01332,Nephrology,West,-119.407,35.58,T1
+HCP01333,Geriatrics,Midwest,-100.02,43.494,T7
+HCP01334,Geriatrics,South,-85.116,29.486,T12
+HCP01335,Nephrology,West,-117.066,32.198,T0
+HCP01336,Internal Medicine,Midwest,-87.063,39.637,T14
+HCP01337,Cardiology,Northeast,-75.4,44.258,T19
+HCP01338,Internal Medicine,West,-116.326,39.057,T2
+HCP01339,Endocrinology,South,-92.389,33.791,T8
+HCP01340,Nephrology,Midwest,-99.877,37.339,T5
+HCP01341,Cardiology,South,-91.385,35.075,T9
+HCP01342,Cardiology,Midwest,-90.622,43.204,T11
+HCP01343,Nephrology,South,-83.917,29.558,T12
+HCP01344,Nephrology,West,-115.913,40.172,T2
+HCP01345,Internal Medicine,Midwest,-93.111,44.748,T11
+HCP01346,Cardiology,Midwest,-89.301,43.425,T11
+HCP01347,Internal Medicine,West,-114.82,35.502,T1
+HCP01348,Internal Medicine,South,-96.042,35.306,T5
+HCP01349,Cardiology,South,-91.321,33.524,T8
+HCP01350,Internal Medicine,Northeast,-74.807,37.744,T17
+HCP01351,Cardiology,West,-112.45,40.608,T2
+HCP01352,Internal Medicine,West,-109.383,34.251,T4
+HCP01353,Nephrology,Northeast,-76.695,40.327,T14
+HCP01354,Cardiology,West,-112.216,33.375,T0
+HCP01355,Cardiology,West,-116.253,34.068,T0
+HCP01356,Cardiology,Midwest,-93.158,41.366,T10
+HCP01357,Endocrinology,West,-111.865,43.998,T3
+HCP01358,Geriatrics,Northeast,-68.038,45.184,T19
+HCP01359,Internal Medicine,South,-93.424,31.551,T8
+HCP01360,Geriatrics,Northeast,-76.955,33.138,T12
+HCP01361,Internal Medicine,Northeast,-71.572,39.108,T18
+HCP01362,Endocrinology,Midwest,-93.79,39.683,T6
+HCP01363,Cardiology,South,-91.732,30.795,T8
+HCP01364,Cardiology,Midwest,-88.567,35.638,T13
+HCP01365,Internal Medicine,South,-89.982,30.494,T8
+HCP01366,Endocrinology,Northeast,-68.678,43.368,T19
+HCP01367,Endocrinology,West,-114.283,35.978,T1
+HCP01368,Endocrinology,Northeast,-73.453,45.176,T19
+HCP01369,Nephrology,Northeast,-73.7,42.271,T18
+HCP01370,Nephrology,Northeast,-71.451,41.383,T18
+HCP01371,Internal Medicine,West,-116.988,35.655,T1
+HCP01372,Nephrology,West,-107.706,41.293,T6
+HCP01373,Cardiology,Northeast,-77.211,46.243,T15
+HCP01374,Endocrinology,Northeast,-70.948,42.395,T19
+HCP01375,Internal Medicine,Northeast,-68.399,44.21,T19
+HCP01376,Cardiology,Northeast,-71.35,37.929,T17
+HCP01377,Endocrinology,South,-93.932,35.629,T5
+HCP01378,Cardiology,Northeast,-69.089,43.567,T19
+HCP01379,Cardiology,South,-89.295,29.313,T8
+HCP01380,Geriatrics,Midwest,-94.977,41.042,T6
+HCP01381,Endocrinology,West,-114.899,39.571,T2
+HCP01382,Nephrology,West,-117.29,34.931,T1
+HCP01383,Cardiology,West,-118.346,40.191,T2
+HCP01384,Nephrology,South,-95.579,36.118,T5
+HCP01385,Endocrinology,West,-117.251,36.902,T1
+HCP01386,Nephrology,South,-92.519,34.645,T8
+HCP01387,Internal Medicine,Northeast,-81.242,43.343,T15
+HCP01388,Endocrinology,West,-109.11,36.207,T5
+HCP01389,Internal Medicine,South,-96.024,34.317,T4
+HCP01390,Endocrinology,West,-116.734,33.425,T0
+HCP01391,Internal Medicine,Northeast,-75.369,47.213,T19
+HCP01392,Nephrology,Midwest,-91.919,42.644,T11
+HCP01393,Internal Medicine,Northeast,-72.424,38.243,T17
+HCP01394,Endocrinology,Northeast,-75.251,40.068,T18
+HCP01395,Internal Medicine,West,-121.234,37.519,T1
+HCP01396,Cardiology,Northeast,-71.983,44.234,T19
+HCP01397,Nephrology,Northeast,-69.972,44.346,T19
+HCP01398,Cardiology,Midwest,-100.906,39.148,T6
+HCP01399,Geriatrics,Midwest,-87.418,42.707,T15
+HCP01400,Cardiology,Midwest,-96.882,43.481,T7
+HCP01401,Cardiology,Midwest,-84.776,46.768,T15
+HCP01402,Cardiology,West,-116.113,36.762,T1
+HCP01403,Internal Medicine,Northeast,-71.233,46.897,T19
+HCP01404,Geriatrics,Midwest,-97.846,41.591,T6
+HCP01405,Endocrinology,South,-93.286,31.625,T8
+HCP01406,Cardiology,Northeast,-68.727,48.238,T19
+HCP01407,Endocrinology,Midwest,-95.095,39.695,T6
+HCP01408,Nephrology,West,-107.004,35.639,T5
+HCP01409,Internal Medicine,Northeast,-71.68,41.399,T18
+HCP01410,Cardiology,Midwest,-89.439,47.797,T11
+HCP01411,Endocrinology,Northeast,-70.325,40.228,T18
+HCP01412,Cardiology,Northeast,-71.263,43.223,T19
+HCP01413,Cardiology,South,-89.454,33.244,T8
+HCP01414,Endocrinology,West,-113.921,37.662,T1
+HCP01415,Internal Medicine,South,-91.16,29.615,T8
+HCP01416,Internal Medicine,Northeast,-70.735,39.265,T18
+HCP01417,Internal Medicine,Northeast,-71.863,42.586,T19
+HCP01418,Cardiology,Midwest,-89.666,38.253,T9
+HCP01419,Internal Medicine,Northeast,-75.781,44.046,T19
+HCP01420,Endocrinology,West,-124.587,35.235,T1
+HCP01421,Geriatrics,South,-90.944,34.181,T8
+HCP01422,Cardiology,West,-113.544,41.992,T2
+HCP01423,Internal Medicine,Midwest,-90.754,45.731,T11
+HCP01424,Internal Medicine,West,-109.931,38.466,T5
+HCP01425,Nephrology,South,-91.803,33.429,T8
+HCP01426,Cardiology,Midwest,-92.96,40.646,T10
+HCP01427,Endocrinology,South,-94.565,33.611,T4
+HCP01428,Nephrology,Northeast,-69.086,45.462,T19
+HCP01429,Internal Medicine,South,-86.109,30.579,T12
+HCP01430,Cardiology,Northeast,-77.435,37.438,T13
+HCP01431,Internal Medicine,West,-107.999,38.774,T5
+HCP01432,Endocrinology,West,-108.646,43.805,T7
+HCP01433,Cardiology,South,-94.768,32.647,T4
+HCP01434,Endocrinology,Midwest,-86.024,46.317,T15
+HCP01435,Internal Medicine,Midwest,-91.923,45.384,T11
+HCP01436,Cardiology,Midwest,-94.928,45.968,T7
+HCP01437,Endocrinology,Midwest,-89.237,41.491,T10
+HCP01438,Cardiology,West,-113.823,34.322,T0
+HCP01439,Nephrology,Northeast,-70.481,45.477,T19
+HCP01440,Geriatrics,West,-113.254,42.039,T2
+HCP01441,Cardiology,Midwest,-87.9,44.89,T15
+HCP01442,Cardiology,South,-87.521,34.955,T13
+HCP01443,Endocrinology,Midwest,-88.228,39.757,T14
+HCP01444,Endocrinology,West,-105.237,40.103,T6
+HCP01445,Cardiology,Northeast,-74.134,42.132,T18
+HCP01446,Nephrology,West,-115.153,38.535,T1
+HCP01447,Cardiology,South,-93.168,30.913,T8
+HCP01448,Cardiology,South,-83.412,31.015,T12
+HCP01449,Nephrology,Northeast,-70.166,37.947,T17
+HCP01450,Endocrinology,Northeast,-70.505,42.661,T19
+HCP01451,Endocrinology,Midwest,-101.872,45.367,T7
+HCP01452,Endocrinology,Northeast,-69.303,40.642,T18
+HCP01453,Internal Medicine,South,-93.327,33.612,T8
+HCP01454,Cardiology,South,-96.568,28.722,T4
+HCP01455,Endocrinology,Midwest,-93.103,38.984,T9
+HCP01456,Internal Medicine,Midwest,-94.4,39.213,T6
+HCP01457,Endocrinology,South,-88.188,32.448,T12
+HCP01458,Geriatrics,Midwest,-92.337,38.925,T9
+HCP01459,Cardiology,Northeast,-74.963,40.11,T18
+HCP01460,Internal Medicine,Northeast,-75.576,45.786,T19
+HCP01461,Internal Medicine,South,-99.413,32.635,T4
+HCP01462,Geriatrics,Northeast,-78.851,41.044,T14
+HCP01463,Endocrinology,West,-119.727,35.426,T1
+HCP01464,Cardiology,Midwest,-92.989,40.958,T10
+HCP01465,Nephrology,West,-116.641,38.162,T1
+HCP01466,Cardiology,West,-112.12,37.64,T1
+HCP01467,Internal Medicine,Northeast,-71.539,41.349,T18
+HCP01468,Cardiology,Northeast,-69.733,43.855,T19
+HCP01469,Cardiology,Northeast,-77.635,44.374,T15
+HCP01470,Nephrology,South,-87.298,32.234,T12
+HCP01471,Nephrology,Midwest,-96.055,36.695,T5
+HCP01472,Nephrology,South,-92.944,36.009,T9
+HCP01473,Endocrinology,Midwest,-94.903,42.857,T7
+HCP01474,Cardiology,Midwest,-94.97,42.839,T7
+HCP01475,Endocrinology,South,-92.305,34.147,T8
+HCP01476,Cardiology,West,-115.782,39.217,T2
+HCP01477,Internal Medicine,Midwest,-87.593,43.567,T15
+HCP01478,Geriatrics,Midwest,-92.675,35.68,T9
+HCP01479,Internal Medicine,South,-84.485,35.182,T13
+HCP01480,Endocrinology,West,-114.705,34.306,T0
+HCP01481,Cardiology,Midwest,-91.828,41.577,T10
+HCP01482,Endocrinology,Midwest,-97.52,42.832,T7
+HCP01483,Nephrology,South,-92.504,32.394,T8
+HCP01484,Internal Medicine,South,-88.429,30.499,T12
+HCP01485,Internal Medicine,South,-99.544,29.097,T4
+HCP01486,Cardiology,Northeast,-67.296,45.742,T19
+HCP01487,Internal Medicine,West,-107.912,41.08,T6
+HCP01488,Cardiology,Midwest,-90.111,40.938,T10
+HCP01489,Internal Medicine,West,-115.193,41.023,T2
+HCP01490,Nephrology,South,-94.135,30.569,T4
+HCP01491,Endocrinology,Northeast,-67.442,38.412,T17
+HCP01492,Cardiology,Northeast,-69.328,40.137,T18
+HCP01493,Geriatrics,South,-91.0,31.006,T8
+HCP01494,Internal Medicine,West,-109.057,41.513,T6
+HCP01495,Cardiology,Northeast,-77.836,43.038,T15
+HCP01496,Endocrinology,Northeast,-75.033,38.766,T17
+HCP01497,Internal Medicine,West,-113.403,39.124,T2
+HCP01498,Endocrinology,South,-89.068,34.504,T12
+HCP01499,Nephrology,Northeast,-69.908,41.366,T18
+HCP01500,Cardiology,South,-93.084,28.851,T8
+HCP01501,Cardiology,West,-116.038,35.954,T1
+HCP01502,Internal Medicine,West,-108.504,35.825,T5
+HCP01503,Internal Medicine,Midwest,-91.644,42.992,T11
+HCP01504,Internal Medicine,West,-114.024,43.875,T3
+HCP01505,Internal Medicine,Northeast,-74.441,38.478,T17
+HCP01506,Cardiology,South,-86.282,27.011,T12
+HCP01507,Nephrology,Northeast,-69.524,42.425,T19
+HCP01508,Internal Medicine,Midwest,-93.029,40.643,T10
+HCP01509,Cardiology,West,-111.681,37.843,T5
+HCP01510,Endocrinology,South,-86.711,33.531,T12
+HCP01511,Endocrinology,Midwest,-92.105,36.688,T9
+HCP01512,Cardiology,Northeast,-74.574,42.996,T19
+HCP01513,Cardiology,Northeast,-66.898,37.292,T17
+HCP01514,Internal Medicine,Midwest,-103.013,42.889,T7
+HCP01515,Internal Medicine,Northeast,-76.265,41.834,T14
+HCP01516,Cardiology,South,-87.548,33.931,T12
+HCP01517,Cardiology,South,-90.781,29.374,T8
+HCP01518,Cardiology,South,-89.178,30.077,T8
+HCP01519,Geriatrics,West,-115.603,34.287,T0
+HCP01520,Cardiology,West,-118.882,34.911,T1
+HCP01521,Endocrinology,Northeast,-76.417,42.175,T14
+HCP01522,Internal Medicine,West,-110.659,35.047,T5
+HCP01523,Cardiology,West,-109.891,34.006,T4
+HCP01524,Cardiology,Midwest,-93.213,44.387,T11
+HCP01525,Nephrology,Northeast,-68.209,43.548,T19
+HCP01526,Geriatrics,Midwest,-99.414,41.667,T6
+HCP01527,Nephrology,Northeast,-70.533,37.77,T17
+HCP01528,Geriatrics,Midwest,-89.542,43.741,T11
+HCP01529,Internal Medicine,South,-89.426,33.506,T8
+HCP01530,Cardiology,South,-89.689,34.265,T8
+HCP01531,Endocrinology,Northeast,-74.132,41.783,T18
+HCP01532,Endocrinology,Northeast,-65.497,42.28,T18
+HCP01533,Endocrinology,South,-92.089,34.557,T8
+HCP01534,Cardiology,Midwest,-81.623,37.261,T13
+HCP01535,Cardiology,Northeast,-81.42,40.444,T14
+HCP01536,Internal Medicine,Midwest,-89.361,42.285,T10
+HCP01537,Endocrinology,Northeast,-76.461,38.731,T13
+HCP01538,Internal Medicine,Midwest,-95.345,37.561,T5
+HCP01539,Cardiology,South,-88.791,33.182,T12
+HCP01540,Internal Medicine,South,-85.045,35.503,T13
+HCP01541,Endocrinology,South,-98.041,34.263,T4
+HCP01542,Internal Medicine,Midwest,-91.252,42.7,T11
+HCP01543,Internal Medicine,Northeast,-75.772,42.462,T19
+HCP01544,Internal Medicine,South,-98.621,34.37,T4
+HCP01545,Internal Medicine,South,-88.513,29.966,T12
+HCP01546,Endocrinology,South,-88.515,30.254,T12
+HCP01547,Internal Medicine,South,-95.398,24.881,T4
+HCP01548,Internal Medicine,Midwest,-96.524,43.416,T7
+HCP01549,Cardiology,Northeast,-76.486,39.243,T14
+HCP01550,Nephrology,South,-90.327,38.374,T9
+HCP01551,Cardiology,Midwest,-98.15,40.251,T6
+HCP01552,Cardiology,West,-112.055,39.612,T2
+HCP01553,Geriatrics,Northeast,-80.812,38.678,T13
+HCP01554,Cardiology,Midwest,-97.378,43.527,T7
+HCP01555,Endocrinology,South,-95.676,32.614,T4
+HCP01556,Cardiology,Midwest,-92.726,42.235,T10
+HCP01557,Cardiology,West,-110.856,34.737,T4
+HCP01558,Internal Medicine,Midwest,-93.425,41.036,T10
+HCP01559,Internal Medicine,South,-86.291,32.308,T12
+HCP01560,Internal Medicine,Northeast,-74.938,40.434,T18
+HCP01561,Internal Medicine,Midwest,-99.851,42.354,T7
+HCP01562,Cardiology,South,-84.878,33.821,T12
+HCP01563,Nephrology,Midwest,-93.084,40.815,T10
+HCP01564,Geriatrics,West,-115.176,38.558,T1
+HCP01565,Cardiology,South,-87.96,31.737,T12
+HCP01566,Endocrinology,Northeast,-73.621,38.445,T17
+HCP01567,Cardiology,West,-105.629,39.742,T6
+HCP01568,Internal Medicine,South,-94.786,29.411,T4
+HCP01569,Geriatrics,Midwest,-92.888,43.517,T11
+HCP01570,Endocrinology,Midwest,-97.827,47.152,T7
+HCP01571,Internal Medicine,Midwest,-88.618,41.758,T14
+HCP01572,Cardiology,Midwest,-88.298,41.298,T14
+HCP01573,Endocrinology,Midwest,-95.537,44.049,T7
+HCP01574,Internal Medicine,South,-97.79,31.092,T4
+HCP01575,Internal Medicine,Northeast,-68.082,41.48,T18
+HCP01576,Geriatrics,Northeast,-68.692,40.825,T18
+HCP01577,Endocrinology,West,-118.008,40.649,T2
+HCP01578,Internal Medicine,West,-120.854,35.49,T1
+HCP01579,Cardiology,West,-116.028,42.562,T3
+HCP01580,Nephrology,Northeast,-66.868,39.308,T18
+HCP01581,Nephrology,Midwest,-93.609,43.216,T7
+HCP01582,Cardiology,West,-113.59,36.083,T1
+HCP01583,Endocrinology,Northeast,-72.63,40.034,T18
+HCP01584,Cardiology,South,-99.1,34.031,T4
+HCP01585,Endocrinology,Northeast,-77.197,36.767,T13
+HCP01586,Endocrinology,South,-87.605,28.22,T12
+HCP01587,Cardiology,West,-118.631,38.127,T1
+HCP01588,Endocrinology,West,-109.331,38.846,T5
+HCP01589,Internal Medicine,Northeast,-72.302,49.641,T19
+HCP01590,Geriatrics,West,-111.765,45.114,T3
+HCP01591,Internal Medicine,West,-117.09,34.722,T0
+HCP01592,Endocrinology,Northeast,-73.965,42.021,T18
+HCP01593,Nephrology,South,-89.864,30.178,T8
+HCP01594,Geriatrics,West,-114.071,40.773,T2
+HCP01595,Cardiology,Northeast,-72.349,41.38,T18
+HCP01596,Nephrology,Northeast,-72.253,48.829,T19
+HCP01597,Cardiology,West,-121.982,36.062,T1
+HCP01598,Internal Medicine,Northeast,-68.884,42.645,T19
+HCP01599,Internal Medicine,West,-115.977,42.879,T3
+HCP01600,Endocrinology,Midwest,-96.92,41.927,T6
+HCP01601,Internal Medicine,South,-85.649,31.847,T12
+HCP01602,Cardiology,Northeast,-70.317,38.607,T17
+HCP01603,Internal Medicine,Midwest,-87.266,40.312,T14
+HCP01604,Internal Medicine,Northeast,-70.816,37.444,T17
+HCP01605,Geriatrics,Northeast,-71.474,41.228,T18
+HCP01606,Endocrinology,South,-93.74,32.992,T4
+HCP01607,Internal Medicine,Northeast,-68.722,39.212,T18
+HCP01608,Geriatrics,West,-111.843,42.397,T3
+HCP01609,Internal Medicine,West,-111.155,37.844,T5
+HCP01610,Internal Medicine,West,-111.401,39.961,T6
+HCP01611,Internal Medicine,West,-113.823,37.78,T1
+HCP01612,Cardiology,Midwest,-101.783,39.007,T5
+HCP01613,Internal Medicine,Midwest,-95.429,35.201,T5
+HCP01614,Geriatrics,Northeast,-68.083,41.445,T18
+HCP01615,Geriatrics,West,-120.26,40.35,T2
+HCP01616,Internal Medicine,Northeast,-71.805,42.886,T19
+HCP01617,Internal Medicine,South,-89.201,34.311,T8
+HCP01618,Endocrinology,West,-119.334,29.723,T0
+HCP01619,Cardiology,West,-107.596,40.164,T6
+HCP01620,Endocrinology,West,-110.03,37.034,T5
+HCP01621,Internal Medicine,Northeast,-74.348,45.867,T19
+HCP01622,Internal Medicine,West,-115.163,42.289,T2
+HCP01623,Cardiology,Northeast,-76.928,45.97,T15
+HCP01624,Nephrology,South,-86.525,34.026,T12
+HCP01625,Nephrology,Midwest,-91.481,43.055,T11
+HCP01626,Cardiology,Northeast,-74.474,43.09,T19
+HCP01627,Endocrinology,Midwest,-92.871,43.315,T11
+HCP01628,Geriatrics,West,-113.156,36.353,T1
+HCP01629,Cardiology,Midwest,-90.816,41.808,T10
+HCP01630,Internal Medicine,Northeast,-76.551,38.59,T13
+HCP01631,Cardiology,South,-91.247,31.786,T8
+HCP01632,Cardiology,South,-87.778,32.915,T12
+HCP01633,Cardiology,Northeast,-73.639,44.482,T19
+HCP01634,Nephrology,Northeast,-70.396,42.315,T19
+HCP01635,Endocrinology,West,-117.273,36.924,T1
+HCP01636,Cardiology,South,-89.459,29.009,T8
+HCP01637,Internal Medicine,Midwest,-90.566,43.315,T11
+HCP01638,Internal Medicine,South,-88.562,31.758,T12
+HCP01639,Cardiology,West,-109.412,36.886,T5
+HCP01640,Nephrology,Midwest,-91.386,39.415,T10
+HCP01641,Nephrology,Midwest,-88.121,42.749,T15
+HCP01642,Internal Medicine,Northeast,-73.184,45.888,T19
+HCP01643,Cardiology,Northeast,-75.312,46.934,T19
+HCP01644,Endocrinology,Midwest,-90.526,42.944,T11
+HCP01645,Nephrology,South,-92.238,40.259,T10
+HCP01646,Endocrinology,Northeast,-79.941,37.275,T13
+HCP01647,Geriatrics,Northeast,-67.756,43.671,T19
+HCP01648,Internal Medicine,Midwest,-90.155,45.357,T11
+HCP01649,Internal Medicine,South,-92.218,36.328,T9
+HCP01650,Cardiology,South,-88.53,28.825,T12
+HCP01651,Internal Medicine,Northeast,-71.999,41.606,T18
+HCP01652,Internal Medicine,Northeast,-69.596,43.355,T19
+HCP01653,Nephrology,West,-117.964,36.026,T1
+HCP01654,Cardiology,West,-115.885,36.703,T1
+HCP01655,Geriatrics,West,-106.027,40.896,T6
+HCP01656,Nephrology,Northeast,-78.056,41.348,T14
+HCP01657,Cardiology,Midwest,-88.917,44.032,T15
+HCP01658,Cardiology,West,-112.797,39.118,T2
+HCP01659,Endocrinology,West,-112.18,34.825,T1
+HCP01660,Cardiology,Northeast,-70.751,43.811,T19
+HCP01661,Internal Medicine,Northeast,-72.832,38.852,T17
+HCP01662,Internal Medicine,South,-90.362,33.733,T8
+HCP01663,Nephrology,South,-86.637,30.927,T12
+HCP01664,Internal Medicine,West,-119.346,33.011,T0
+HCP01665,Internal Medicine,South,-91.822,36.311,T9
+HCP01666,Endocrinology,South,-93.115,31.385,T8
+HCP01667,Geriatrics,Midwest,-89.202,40.723,T10
+HCP01668,Cardiology,West,-110.114,36.786,T5
+HCP01669,Internal Medicine,West,-114.043,40.491,T2
+HCP01670,Nephrology,Northeast,-80.677,46.042,T15
+HCP01671,Endocrinology,Northeast,-72.649,46.749,T19
+HCP01672,Internal Medicine,West,-114.359,32.98,T0
+HCP01673,Cardiology,West,-110.795,37.468,T5
+HCP01674,Geriatrics,Northeast,-76.91,42.818,T15
+HCP01675,Endocrinology,South,-87.807,31.815,T12
+HCP01676,Internal Medicine,Northeast,-72.218,42.129,T18
+HCP01677,Endocrinology,Midwest,-99.903,45.581,T7
+HCP01678,Endocrinology,South,-92.148,27.221,T8
+HCP01679,Cardiology,Midwest,-92.669,40.216,T10
+HCP01680,Nephrology,Northeast,-70.977,43.33,T19
+HCP01681,Endocrinology,Northeast,-73.328,45.325,T19
+HCP01682,Cardiology,Midwest,-89.92,42.632,T11
+HCP01683,Internal Medicine,South,-83.891,28.528,T12
+HCP01684,Nephrology,Northeast,-76.746,46.924,T15
+HCP01685,Internal Medicine,South,-92.643,33.065,T8
+HCP01686,Endocrinology,Midwest,-96.21,37.832,T5
+HCP01687,Internal Medicine,Midwest,-91.465,39.9,T10
+HCP01688,Internal Medicine,Midwest,-92.205,44.002,T11
+HCP01689,Geriatrics,South,-83.64,35.425,T13
+HCP01690,Endocrinology,Northeast,-70.643,39.808,T18
+HCP01691,Cardiology,Midwest,-84.809,39.307,T14
+HCP01692,Geriatrics,Northeast,-73.243,46.098,T19
+HCP01693,Cardiology,West,-113.011,39.303,T2
+HCP01694,Cardiology,Midwest,-98.719,41.604,T6
+HCP01695,Internal Medicine,Northeast,-68.395,38.703,T17
+HCP01696,Cardiology,South,-88.399,32.397,T12
+HCP01697,Endocrinology,Midwest,-95.5,47.14,T7
+HCP01698,Internal Medicine,South,-91.401,28.406,T8
+HCP01699,Endocrinology,Northeast,-74.855,44.768,T19
+HCP01700,Internal Medicine,South,-92.635,32.907,T8
+HCP01701,Internal Medicine,Midwest,-93.131,38.498,T9
+HCP01702,Internal Medicine,West,-111.263,36.07,T5
+HCP01703,Internal Medicine,South,-86.203,26.624,T12
+HCP01704,Internal Medicine,Midwest,-88.317,37.648,T13
+HCP01705,Cardiology,Northeast,-71.9,40.787,T18
+HCP01706,Nephrology,Midwest,-91.902,46.706,T11
+HCP01707,Cardiology,South,-84.238,32.253,T12
+HCP01708,Cardiology,West,-116.71,38.569,T1
+HCP01709,Endocrinology,South,-89.505,34.018,T8
+HCP01710,Cardiology,Northeast,-65.912,46.836,T19
+HCP01711,Internal Medicine,Midwest,-104.098,45.069,T7
+HCP01712,Endocrinology,Northeast,-70.995,40.281,T18
+HCP01713,Endocrinology,South,-92.003,30.557,T8
+HCP01714,Cardiology,Midwest,-91.238,42.899,T11
+HCP01715,Nephrology,South,-92.77,33.943,T8
+HCP01716,Endocrinology,West,-121.271,39.321,T2
+HCP01717,Nephrology,South,-92.317,34.25,T8
+HCP01718,Internal Medicine,South,-84.207,35.17,T13
+HCP01719,Endocrinology,West,-114.11,40.549,T2
+HCP01720,Geriatrics,South,-90.553,30.886,T8
+HCP01721,Endocrinology,Midwest,-86.69,41.455,T14
+HCP01722,Cardiology,Midwest,-93.26,38.944,T9
+HCP01723,Internal Medicine,Northeast,-79.583,40.701,T14
+HCP01724,Internal Medicine,West,-106.902,38.469,T5
+HCP01725,Cardiology,Midwest,-91.24,40.606,T10
+HCP01726,Endocrinology,West,-112.991,40.764,T2
+HCP01727,Cardiology,South,-96.218,37.004,T5
+HCP01728,Cardiology,Midwest,-90.621,38.505,T9
+HCP01729,Endocrinology,West,-116.033,39.075,T2
+HCP01730,Endocrinology,West,-114.801,37.825,T1
+HCP01731,Nephrology,Northeast,-73.113,47.452,T19
+HCP01732,Nephrology,West,-116.408,36.122,T1
+HCP01733,Geriatrics,Northeast,-69.42,37.394,T17
+HCP01734,Endocrinology,South,-91.081,30.817,T8
+HCP01735,Cardiology,Midwest,-89.128,42.802,T15
+HCP01736,Internal Medicine,West,-112.241,40.567,T2
+HCP01737,Internal Medicine,South,-89.746,33.946,T8
+HCP01738,Cardiology,West,-116.593,39.31,T2
+HCP01739,Internal Medicine,Northeast,-73.997,38.067,T17
+HCP01740,Internal Medicine,Northeast,-76.506,37.996,T13
+HCP01741,Cardiology,Northeast,-76.055,42.44,T19
+HCP01742,Internal Medicine,West,-117.27,40.669,T2
+HCP01743,Endocrinology,Midwest,-86.619,43.209,T15
+HCP01744,Internal Medicine,West,-114.751,39.028,T1
+HCP01745,Endocrinology,South,-88.079,29.031,T12
+HCP01746,Endocrinology,South,-90.264,35.905,T9
+HCP01747,Nephrology,West,-118.738,37.76,T1
+HCP01748,Cardiology,Midwest,-92.305,39.827,T10
+HCP01749,Cardiology,Midwest,-98.242,44.711,T7
+HCP01750,Nephrology,West,-107.604,39.58,T6
+HCP01751,Nephrology,South,-86.552,27.665,T12
+HCP01752,Cardiology,West,-116.763,36.268,T1
+HCP01753,Internal Medicine,Northeast,-68.068,42.402,T19
+HCP01754,Geriatrics,Northeast,-73.321,42.497,T19
+HCP01755,Endocrinology,Northeast,-75.549,38.617,T17
+HCP01756,Internal Medicine,Northeast,-71.289,43.361,T19
+HCP01757,Nephrology,West,-112.864,37.766,T1
+HCP01758,Cardiology,Northeast,-69.861,43.766,T19
+HCP01759,Internal Medicine,Midwest,-90.961,37.898,T9
+HCP01760,Cardiology,South,-86.052,32.867,T12
+HCP01761,Cardiology,South,-90.826,27.344,T8
+HCP01762,Endocrinology,Northeast,-70.58,44.092,T19
+HCP01763,Nephrology,Northeast,-68.563,39.23,T18
+HCP01764,Internal Medicine,South,-94.67,26.835,T4
+HCP01765,Internal Medicine,Midwest,-98.866,45.364,T7
+HCP01766,Nephrology,South,-89.493,30.313,T8
+HCP01767,Nephrology,South,-77.354,31.028,T12
+HCP01768,Cardiology,Midwest,-89.862,40.832,T10
+HCP01769,Cardiology,South,-90.138,29.678,T8
+HCP01770,Geriatrics,South,-85.384,30.081,T12
+HCP01771,Nephrology,Northeast,-77.857,39.331,T14
+HCP01772,Cardiology,Midwest,-89.327,45.313,T11
+HCP01773,Cardiology,South,-90.052,30.797,T8
+HCP01774,Internal Medicine,West,-118.356,34.21,T0
+HCP01775,Nephrology,West,-117.143,36.937,T1
+HCP01776,Internal Medicine,West,-119.137,35.866,T1
+HCP01777,Geriatrics,Midwest,-91.496,46.432,T11
+HCP01778,Nephrology,West,-118.325,35.985,T1
+HCP01779,Internal Medicine,Midwest,-92.313,39.225,T10
+HCP01780,Geriatrics,Northeast,-74.278,44.929,T19
+HCP01781,Internal Medicine,Northeast,-79.254,45.782,T15
+HCP01782,Endocrinology,Midwest,-93.977,44.68,T7
+HCP01783,Nephrology,Midwest,-89.888,36.664,T9
+HCP01784,Internal Medicine,South,-94.137,33.449,T4
+HCP01785,Cardiology,South,-98.013,33.253,T4
+HCP01786,Internal Medicine,West,-122.993,44.355,T3
+HCP01787,Endocrinology,West,-107.982,35.088,T5
+HCP01788,Nephrology,West,-112.731,39.513,T2
+HCP01789,Endocrinology,West,-117.788,41.304,T2
+HCP01790,Nephrology,West,-109.707,37.863,T5
+HCP01791,Endocrinology,South,-94.483,32.539,T4
+HCP01792,Geriatrics,Midwest,-93.298,48.658,T11
+HCP01793,Geriatrics,West,-117.934,34.143,T0
+HCP01794,Internal Medicine,South,-94.2,35.014,T5
+HCP01795,Cardiology,South,-94.431,29.69,T4
+HCP01796,Nephrology,Midwest,-93.388,45.371,T11
+HCP01797,Endocrinology,South,-92.379,28.344,T8
+HCP01798,Cardiology,Northeast,-77.517,42.761,T15
+HCP01799,Endocrinology,Midwest,-99.38,43.823,T7
+HCP01800,Endocrinology,Northeast,-78.973,40.411,T14
+HCP01801,Endocrinology,South,-96.116,31.128,T4
+HCP01802,Endocrinology,Midwest,-100.509,45.258,T7
+HCP01803,Geriatrics,West,-110.576,40.912,T6
+HCP01804,Internal Medicine,Midwest,-92.271,44.542,T11
+HCP01805,Internal Medicine,Northeast,-71.312,42.13,T18
+HCP01806,Nephrology,Midwest,-94.623,38.585,T5
+HCP01807,Internal Medicine,South,-85.962,39.391,T14
+HCP01808,Endocrinology,South,-91.641,30.383,T8
+HCP01809,Internal Medicine,Northeast,-79.834,42.996,T15
+HCP01810,Cardiology,Midwest,-96.442,42.5,T7
+HCP01811,Cardiology,West,-112.58,31.427,T0
+HCP01812,Nephrology,Northeast,-75.908,43.4,T19
+HCP01813,Internal Medicine,Midwest,-89.594,37.729,T9
+HCP01814,Cardiology,Midwest,-98.291,42.532,T7
+HCP01815,Internal Medicine,Midwest,-99.961,44.784,T7
+HCP01816,Internal Medicine,South,-91.499,36.684,T9
+HCP01817,Nephrology,South,-85.577,36.849,T13
+HCP01818,Internal Medicine,South,-96.818,33.165,T4
+HCP01819,Nephrology,Northeast,-70.014,39.64,T18
+HCP01820,Cardiology,Northeast,-72.478,50.114,T19
+HCP01821,Internal Medicine,Midwest,-91.862,41.879,T10
+HCP01822,Endocrinology,West,-113.709,34.334,T0
+HCP01823,Endocrinology,Midwest,-97.651,41.287,T6
+HCP01824,Cardiology,Midwest,-87.369,39.793,T14
+HCP01825,Cardiology,Northeast,-77.869,46.1,T15
+HCP01826,Endocrinology,Midwest,-95.261,41.824,T6
+HCP01827,Cardiology,Midwest,-89.421,43.07,T11
+HCP01828,Cardiology,West,-113.447,40.91,T2
+HCP01829,Nephrology,West,-120.325,43.101,T3
+HCP01830,Internal Medicine,Northeast,-75.363,42.917,T19
+HCP01831,Cardiology,Midwest,-98.531,44.307,T7
+HCP01832,Internal Medicine,Northeast,-75.489,38.888,T17
+HCP01833,Nephrology,West,-111.546,36.815,T5
+HCP01834,Endocrinology,Northeast,-71.56,43.262,T19
+HCP01835,Endocrinology,Northeast,-73.944,49.724,T19
+HCP01836,Internal Medicine,Northeast,-69.344,44.564,T19
+HCP01837,Endocrinology,West,-111.763,38.206,T1
+HCP01838,Endocrinology,South,-91.1,30.096,T8
+HCP01839,Cardiology,Northeast,-80.668,46.081,T15
+HCP01840,Endocrinology,West,-116.723,47.306,T3
+HCP01841,Internal Medicine,South,-88.752,36.628,T13
+HCP01842,Cardiology,Northeast,-70.266,41.239,T18
+HCP01843,Endocrinology,West,-108.802,36.494,T5
+HCP01844,Cardiology,Northeast,-74.089,33.631,T16
+HCP01845,Nephrology,Northeast,-68.805,42.679,T19
+HCP01846,Cardiology,South,-91.331,26.825,T8
+HCP01847,Internal Medicine,West,-116.489,38.824,T1
+HCP01848,Cardiology,Midwest,-97.302,40.556,T6
+HCP01849,Internal Medicine,Midwest,-95.546,39.246,T6
+HCP01850,Cardiology,Midwest,-94.745,38.967,T5
+HCP01851,Cardiology,Northeast,-73.832,45.27,T19
+HCP01852,Cardiology,Midwest,-101.079,42.044,T6
+HCP01853,Cardiology,Midwest,-96.357,39.926,T6
+HCP01854,Internal Medicine,West,-112.89,38.789,T1
+HCP01855,Nephrology,Northeast,-75.061,37.375,T17
+HCP01856,Endocrinology,West,-120.106,40.115,T2
+HCP01857,Cardiology,Northeast,-81.59,46.459,T15
+HCP01858,Internal Medicine,Northeast,-74.704,42.262,T18
+HCP01859,Cardiology,South,-91.636,33.347,T8
+HCP01860,Geriatrics,South,-87.467,25.894,T12
+HCP01861,Geriatrics,South,-92.959,33.188,T8
+HCP01862,Cardiology,West,-121.783,37.62,T1
+HCP01863,Nephrology,Northeast,-74.147,37.735,T17
+HCP01864,Endocrinology,South,-91.346,31.402,T8
+HCP01865,Internal Medicine,West,-118.49,42.202,T2
+HCP01866,Endocrinology,South,-94.054,31.079,T4
+HCP01867,Internal Medicine,South,-89.411,33.373,T8
+HCP01868,Internal Medicine,Northeast,-76.387,43.064,T15
+HCP01869,Cardiology,South,-85.423,32.713,T12
+HCP01870,Nephrology,Midwest,-102.137,40.53,T6
+HCP01871,Internal Medicine,South,-89.473,28.978,T8
+HCP01872,Cardiology,Northeast,-75.476,44.793,T19
+HCP01873,Internal Medicine,West,-120.79,37.604,T1
+HCP01874,Cardiology,South,-89.294,32.976,T8
+HCP01875,Cardiology,West,-115.649,37.851,T1
+HCP01876,Endocrinology,Midwest,-96.805,38.167,T5
+HCP01877,Endocrinology,South,-87.35,37.332,T13
+HCP01878,Internal Medicine,Midwest,-91.809,37.932,T9
+HCP01879,Internal Medicine,South,-92.179,30.191,T8
+HCP01880,Endocrinology,West,-114.009,33.763,T0
+HCP01881,Endocrinology,West,-116.534,36.674,T1
+HCP01882,Endocrinology,South,-92.445,30.162,T8
+HCP01883,Cardiology,Northeast,-65.575,43.246,T19
+HCP01884,Endocrinology,Midwest,-90.981,37.592,T9
+HCP01885,Nephrology,South,-90.13,29.746,T8
+HCP01886,Internal Medicine,South,-99.384,32.722,T4
+HCP01887,Cardiology,South,-87.958,31.908,T12
+HCP01888,Internal Medicine,South,-92.958,30.873,T8
+HCP01889,Cardiology,Northeast,-74.08,38.772,T17
+HCP01890,Internal Medicine,Midwest,-96.596,38.887,T5
+HCP01891,Nephrology,Northeast,-66.365,46.603,T19
+HCP01892,Internal Medicine,West,-113.644,38.844,T1
+HCP01893,Geriatrics,Midwest,-87.835,40.807,T14
+HCP01894,Cardiology,South,-92.421,32.607,T8
+HCP01895,Geriatrics,West,-117.482,36.004,T1
+HCP01896,Endocrinology,West,-119.374,33.02,T0
+HCP01897,Endocrinology,South,-84.744,30.677,T12
+HCP01898,Internal Medicine,Northeast,-73.187,45.96,T19
+HCP01899,Cardiology,West,-123.107,39.504,T2
+HCP01900,Internal Medicine,West,-115.876,34.816,T1
+HCP01901,Endocrinology,South,-90.337,33.495,T8
+HCP01902,Endocrinology,South,-89.872,33.938,T8
+HCP01903,Geriatrics,Midwest,-90.856,38.561,T9
+HCP01904,Nephrology,South,-88.996,35.327,T13
+HCP01905,Geriatrics,Midwest,-94.465,40.101,T6
+HCP01906,Internal Medicine,South,-91.727,27.296,T8
+HCP01907,Internal Medicine,West,-113.014,40.436,T2
+HCP01908,Endocrinology,Midwest,-91.726,40.912,T10
+HCP01909,Internal Medicine,Northeast,-74.403,44.026,T19
+HCP01910,Nephrology,Midwest,-100.097,41.28,T6
+HCP01911,Endocrinology,South,-91.986,28.827,T8
+HCP01912,Internal Medicine,West,-113.896,36.896,T1
+HCP01913,Internal Medicine,West,-113.949,40.831,T2
+HCP01914,Endocrinology,South,-95.897,24.858,T4
+HCP01915,Internal Medicine,Midwest,-90.677,40.352,T10
+HCP01916,Nephrology,South,-91.241,30.736,T8
+HCP01917,Internal Medicine,West,-110.807,32.605,T4
+HCP01918,Internal Medicine,Northeast,-66.966,40.453,T18
+HCP01919,Endocrinology,South,-88.621,28.331,T12
+HCP01920,Endocrinology,South,-94.032,32.637,T4
+HCP01921,Cardiology,South,-88.382,39.25,T14
+HCP01922,Geriatrics,West,-117.148,42.038,T2
+HCP01923,Cardiology,South,-88.509,30.563,T12
+HCP01924,Endocrinology,South,-90.54,33.094,T8
+HCP01925,Internal Medicine,Northeast,-78.101,42.512,T15
+HCP01926,Internal Medicine,Midwest,-95.857,37.108,T5
+HCP01927,Internal Medicine,West,-119.543,44.753,T3
+HCP01928,Nephrology,West,-116.997,40.125,T2
+HCP01929,Endocrinology,South,-87.614,31.221,T12
+HCP01930,Cardiology,Northeast,-77.811,39.233,T14
+HCP01931,Internal Medicine,West,-122.446,33.727,T0
+HCP01932,Internal Medicine,Northeast,-74.259,38.926,T17
+HCP01933,Internal Medicine,West,-106.953,39.411,T6
+HCP01934,Internal Medicine,West,-122.506,39.273,T2
+HCP01935,Nephrology,South,-92.123,33.212,T8
+HCP01936,Nephrology,West,-121.796,39.422,T2
+HCP01937,Internal Medicine,Northeast,-79.634,36.719,T13
+HCP01938,Cardiology,South,-83.539,38.397,T13
+HCP01939,Endocrinology,West,-116.507,37.066,T1
+HCP01940,Cardiology,Northeast,-73.735,40.017,T18
+HCP01941,Internal Medicine,West,-117.296,36.541,T1
+HCP01942,Endocrinology,South,-80.047,30.336,T12
+HCP01943,Internal Medicine,Midwest,-85.229,48.534,T15
+HCP01944,Cardiology,South,-85.911,35.963,T13
+HCP01945,Cardiology,Northeast,-69.026,40.272,T18
+HCP01946,Cardiology,West,-119.707,33.262,T0
+HCP01947,Nephrology,South,-94.06,34.243,T4
+HCP01948,Nephrology,West,-117.89,37.044,T1
+HCP01949,Internal Medicine,Northeast,-79.05,42.975,T15
+HCP01950,Internal Medicine,Midwest,-91.128,45.97,T11
+HCP01951,Internal Medicine,West,-115.119,37.427,T1
+HCP01952,Geriatrics,Northeast,-71.642,40.728,T18
+HCP01953,Endocrinology,South,-87.126,28.567,T12
+HCP01954,Internal Medicine,Midwest,-97.481,42.705,T7
+HCP01955,Endocrinology,West,-110.131,36.427,T5
+HCP01956,Endocrinology,Midwest,-98.729,48.651,T7
+HCP01957,Internal Medicine,West,-126.784,39.021,T1
+HCP01958,Nephrology,West,-114.453,36.725,T1
+HCP01959,Cardiology,Midwest,-98.664,43.42,T7
+HCP01960,Endocrinology,Northeast,-73.755,42.509,T19
+HCP01961,Endocrinology,Northeast,-76.004,36.868,T17
+HCP01962,Internal Medicine,Midwest,-93.503,39.179,T10
+HCP01963,Cardiology,South,-91.254,33.521,T8
+HCP01964,Endocrinology,South,-94.742,28.345,T4
+HCP01965,Cardiology,South,-93.113,30.856,T8
+HCP01966,Internal Medicine,South,-91.214,29.149,T8
+HCP01967,Geriatrics,Midwest,-89.511,36.272,T9
+HCP01968,Internal Medicine,South,-91.79,35.299,T9
+HCP01969,Cardiology,South,-94.17,28.448,T4
+HCP01970,Cardiology,West,-112.564,41.589,T2
+HCP01971,Nephrology,Northeast,-68.935,44.052,T19
+HCP01972,Internal Medicine,Northeast,-74.682,40.114,T18
+HCP01973,Internal Medicine,Northeast,-73.908,42.755,T19
+HCP01974,Nephrology,South,-88.414,30.841,T12
+HCP01975,Internal Medicine,Northeast,-71.941,43.228,T19
+HCP01976,Internal Medicine,West,-114.824,40.81,T2
+HCP01977,Internal Medicine,Midwest,-97.775,45.215,T7
+HCP01978,Cardiology,West,-115.805,37.363,T1
+HCP01979,Internal Medicine,Midwest,-97.269,36.275,T5
+HCP01980,Geriatrics,Midwest,-87.478,44.115,T15
+HCP01981,Cardiology,Midwest,-95.023,43.786,T7
+HCP01982,Cardiology,West,-112.367,37.866,T1
+HCP01983,Internal Medicine,South,-97.767,28.781,T4
+HCP01984,Nephrology,Northeast,-73.685,43.411,T19
+HCP01985,Internal Medicine,West,-124.204,36.706,T1
+HCP01986,Nephrology,Northeast,-71.179,45.188,T19
+HCP01987,Nephrology,Midwest,-96.65,36.247,T5
+HCP01988,Endocrinology,West,-121.598,38.135,T1
+HCP01989,Endocrinology,Northeast,-73.242,41.319,T18
+HCP01990,Geriatrics,Northeast,-72.436,41.22,T18
+HCP01991,Cardiology,Northeast,-76.943,40.887,T14
+HCP01992,Internal Medicine,West,-116.004,31.613,T0
+HCP01993,Nephrology,Northeast,-74.405,44.038,T19
+HCP01994,Endocrinology,South,-84.556,33.051,T12
+HCP01995,Endocrinology,West,-115.28,35.718,T1
+HCP01996,Cardiology,South,-89.519,31.663,T8
+HCP01997,Internal Medicine,South,-86.852,35.772,T13
+HCP01998,Internal Medicine,West,-115.689,34.298,T0
+HCP01999,Nephrology,South,-90.047,34.172,T8
+HCP02000,Endocrinology,South,-86.927,30.265,T12
+HCP02001,Cardiology,West,-116.578,39.287,T2
+HCP02002,Endocrinology,Northeast,-78.671,38.769,T13
+HCP02003,Cardiology,Northeast,-68.495,42.363,T19
+HCP02004,Endocrinology,West,-115.063,37.542,T1
+HCP02005,Cardiology,West,-117.978,35.07,T1
+HCP02006,Geriatrics,Northeast,-71.157,42.263,T18
+HCP02007,Internal Medicine,South,-91.916,31.962,T8
+HCP02008,Internal Medicine,South,-88.177,35.449,T13
+HCP02009,Endocrinology,Northeast,-74.763,41.531,T18
+HCP02010,Geriatrics,Midwest,-95.955,39.171,T6
+HCP02011,Nephrology,South,-91.424,34.213,T8
+HCP02012,Internal Medicine,Midwest,-90.37,35.528,T9
+HCP02013,Nephrology,South,-89.251,31.165,T8
+HCP02014,Endocrinology,West,-113.953,37.644,T1
+HCP02015,Cardiology,South,-88.594,35.246,T13
+HCP02016,Endocrinology,South,-88.519,27.27,T12
+HCP02017,Endocrinology,Midwest,-94.605,42.321,T7
+HCP02018,Endocrinology,Northeast,-78.107,38.816,T13
+HCP02019,Nephrology,Northeast,-71.159,36.8,T17
+HCP02020,Geriatrics,West,-117.18,37.308,T1
+HCP02021,Internal Medicine,Midwest,-94.426,41.218,T6
+HCP02022,Internal Medicine,Midwest,-94.084,42.588,T7
+HCP02023,Endocrinology,Midwest,-86.371,42.213,T14
+HCP02024,Internal Medicine,Northeast,-78.331,40.084,T14
+HCP02025,Cardiology,South,-92.853,36.235,T9
+HCP02026,Cardiology,South,-88.645,34.307,T12
+HCP02027,Endocrinology,South,-89.978,29.581,T8
+HCP02028,Internal Medicine,Midwest,-97.977,39.709,T6
+HCP02029,Internal Medicine,Northeast,-64.579,38.004,T17
+HCP02030,Internal Medicine,Northeast,-70.039,45.005,T19
+HCP02031,Cardiology,South,-91.256,29.178,T8
+HCP02032,Nephrology,Midwest,-89.749,39.637,T10
+HCP02033,Nephrology,Midwest,-89.64,33.483,T8
+HCP02034,Endocrinology,Northeast,-75.74,48.356,T19
+HCP02035,Cardiology,West,-114.958,42.228,T2
+HCP02036,Internal Medicine,South,-87.92,29.921,T12
+HCP02037,Cardiology,Northeast,-69.302,42.086,T18
+HCP02038,Nephrology,Midwest,-91.684,43.384,T11
+HCP02039,Endocrinology,South,-86.248,29.727,T12
+HCP02040,Endocrinology,West,-114.788,32.592,T0
+HCP02041,Nephrology,South,-93.24,38.448,T9
+HCP02042,Cardiology,Midwest,-97.932,42.423,T7
+HCP02043,Nephrology,South,-95.405,34.531,T4
+HCP02044,Nephrology,Midwest,-92.495,45.06,T11
+HCP02045,Cardiology,West,-116.764,33.952,T0
+HCP02046,Internal Medicine,Northeast,-75.076,42.969,T19
+HCP02047,Cardiology,Northeast,-78.319,40.887,T14
+HCP02048,Cardiology,Midwest,-85.427,42.463,T15
+HCP02049,Internal Medicine,Northeast,-79.246,40.442,T14
+HCP02050,Nephrology,South,-93.383,28.723,T8
+HCP02051,Internal Medicine,Midwest,-95.576,42.03,T6
+HCP02052,Endocrinology,West,-116.38,38.703,T1
+HCP02053,Cardiology,West,-114.033,34.893,T1
+HCP02054,Nephrology,South,-95.935,32.317,T4
+HCP02055,Endocrinology,Northeast,-75.768,43.32,T19
+HCP02056,Internal Medicine,Northeast,-73.016,45.739,T19
+HCP02057,Geriatrics,Northeast,-73.829,41.658,T18
+HCP02058,Cardiology,South,-92.46,35.583,T9
+HCP02059,Nephrology,South,-90.168,36.8,T9
+HCP02060,Cardiology,West,-122.901,42.454,T3
+HCP02061,Internal Medicine,Midwest,-90.752,36.102,T9
+HCP02062,Internal Medicine,West,-109.664,38.885,T5
+HCP02063,Cardiology,South,-83.992,32.439,T12
+HCP02064,Internal Medicine,West,-118.427,38.822,T1
+HCP02065,Internal Medicine,West,-114.389,32.324,T0
+HCP02066,Internal Medicine,West,-113.629,41.655,T2
+HCP02067,Endocrinology,West,-111.351,36.154,T5
+HCP02068,Cardiology,South,-87.565,27.896,T12
+HCP02069,Cardiology,South,-83.173,29.79,T12
+HCP02070,Internal Medicine,Northeast,-70.409,38.211,T17
+HCP02071,Endocrinology,Midwest,-92.045,46.187,T11
+HCP02072,Internal Medicine,South,-94.913,30.671,T4
+HCP02073,Cardiology,South,-92.355,37.646,T9
+HCP02074,Endocrinology,South,-90.946,32.832,T8
+HCP02075,Cardiology,Northeast,-74.177,44.302,T19
+HCP02076,Endocrinology,Midwest,-93.886,38.156,T5
+HCP02077,Endocrinology,South,-91.494,26.591,T8
+HCP02078,Internal Medicine,South,-86.366,35.78,T13
+HCP02079,Internal Medicine,Northeast,-74.971,44.547,T19
+HCP02080,Internal Medicine,South,-90.107,31.974,T8
+HCP02081,Endocrinology,Northeast,-71.959,40.232,T18
+HCP02082,Endocrinology,Midwest,-92.929,37.026,T9
+HCP02083,Cardiology,South,-89.299,30.365,T8
+HCP02084,Internal Medicine,Northeast,-78.748,38.226,T13
+HCP02085,Geriatrics,West,-111.761,43.862,T3
+HCP02086,Geriatrics,West,-120.101,39.676,T2
+HCP02087,Endocrinology,Northeast,-74.168,43.307,T19
+HCP02088,Endocrinology,South,-82.781,29.601,T12
+HCP02089,Nephrology,Midwest,-88.6,42.85,T15
+HCP02090,Internal Medicine,Midwest,-91.859,40.589,T10
+HCP02091,Endocrinology,Northeast,-73.021,45.949,T19
+HCP02092,Internal Medicine,Midwest,-96.175,47.144,T7
+HCP02093,Endocrinology,South,-88.529,33.034,T12
+HCP02094,Nephrology,West,-111.564,33.782,T4
+HCP02095,Cardiology,Northeast,-68.345,47.138,T19
+HCP02096,Cardiology,Midwest,-88.088,39.379,T14
+HCP02097,Internal Medicine,South,-90.964,33.35,T8
+HCP02098,Endocrinology,Midwest,-95.85,37.197,T5
+HCP02099,Endocrinology,West,-111.127,41.558,T6
+HCP02100,Nephrology,West,-113.417,38.48,T1
+HCP02101,Cardiology,Northeast,-73.599,45.488,T19
+HCP02102,Cardiology,Northeast,-72.346,45.994,T19
+HCP02103,Cardiology,West,-115.787,33.393,T0
+HCP02104,Endocrinology,Midwest,-89.728,41.611,T10
+HCP02105,Internal Medicine,Midwest,-88.937,44.767,T15
+HCP02106,Nephrology,Northeast,-76.559,38.343,T13
+HCP02107,Cardiology,Midwest,-91.219,46.34,T11
+HCP02108,Endocrinology,West,-114.685,35.625,T1
+HCP02109,Internal Medicine,Northeast,-80.174,40.782,T14
+HCP02110,Internal Medicine,Northeast,-78.243,44.224,T15
+HCP02111,Cardiology,Midwest,-94.736,40.19,T6
+HCP02112,Internal Medicine,South,-93.962,25.691,T4
+HCP02113,Endocrinology,South,-91.522,34.182,T8
+HCP02114,Internal Medicine,West,-115.614,33.442,T0
+HCP02115,Endocrinology,Midwest,-100.323,42.312,T7
+HCP02116,Cardiology,West,-111.529,42.726,T7
+HCP02117,Cardiology,South,-86.692,28.6,T12
+HCP02118,Cardiology,Midwest,-92.437,46.327,T11
+HCP02119,Endocrinology,Northeast,-71.13,37.052,T17
+HCP02120,Endocrinology,South,-93.082,23.598,T8
+HCP02121,Geriatrics,South,-92.638,35.246,T9
+HCP02122,Endocrinology,South,-90.737,32.196,T8
+HCP02123,Internal Medicine,Midwest,-94.301,44.784,T7
+HCP02124,Internal Medicine,South,-91.741,33.614,T8
+HCP02125,Geriatrics,Northeast,-69.631,40.607,T18
+HCP02126,Endocrinology,South,-92.286,32.586,T8
+HCP02127,Nephrology,South,-96.047,27.21,T4
+HCP02128,Cardiology,Northeast,-71.971,40.726,T18
+HCP02129,Endocrinology,South,-96.081,31.407,T4
+HCP02130,Cardiology,Midwest,-92.969,40.606,T10
+HCP02131,Endocrinology,Northeast,-66.905,42.314,T19
+HCP02132,Internal Medicine,Northeast,-74.182,44.61,T19
+HCP02133,Internal Medicine,Northeast,-73.696,40.26,T18
+HCP02134,Endocrinology,South,-88.844,36.112,T13
+HCP02135,Internal Medicine,South,-91.961,32.6,T8
+HCP02136,Internal Medicine,Northeast,-79.12,45.792,T15
+HCP02137,Cardiology,South,-86.348,32.051,T12
+HCP02138,Internal Medicine,West,-114.93,39.968,T2
+HCP02139,Internal Medicine,South,-93.782,33.511,T4
+HCP02140,Cardiology,Midwest,-89.723,43.5,T11
+HCP02141,Endocrinology,South,-87.461,32.391,T12
+HCP02142,Geriatrics,Midwest,-88.75,40.141,T14
+HCP02143,Endocrinology,Northeast,-66.628,39.427,T18
+HCP02144,Cardiology,Midwest,-92.376,46.4,T11
+HCP02145,Endocrinology,Midwest,-94.626,42.416,T7
+HCP02146,Internal Medicine,Midwest,-95.148,44.539,T7
+HCP02147,Internal Medicine,Northeast,-78.758,40.236,T14
+HCP02148,Internal Medicine,South,-93.557,32.807,T8
+HCP02149,Endocrinology,South,-91.111,34.141,T8
+HCP02150,Cardiology,Northeast,-78.32,45.115,T15
+HCP02151,Cardiology,West,-116.904,40.865,T2
+HCP02152,Cardiology,Midwest,-95.497,44.696,T7
+HCP02153,Cardiology,Midwest,-96.084,44.216,T7
+HCP02154,Cardiology,West,-120.816,42.031,T2
+HCP02155,Geriatrics,South,-95.934,29.73,T4
+HCP02156,Internal Medicine,West,-113.054,39.328,T2
+HCP02157,Geriatrics,Midwest,-89.855,44.281,T11
+HCP02158,Internal Medicine,Midwest,-98.434,40.174,T6
+HCP02159,Endocrinology,Northeast,-78.184,47.405,T15
+HCP02160,Cardiology,West,-112.805,42.154,T2
+HCP02161,Endocrinology,Midwest,-91.161,44.081,T11
+HCP02162,Internal Medicine,West,-115.555,40.479,T2
+HCP02163,Cardiology,Midwest,-97.959,39.511,T6
+HCP02164,Cardiology,Northeast,-74.541,40.044,T18
+HCP02165,Endocrinology,West,-104.958,33.163,T4
+HCP02166,Endocrinology,South,-95.664,35.571,T5
+HCP02167,Cardiology,West,-120.083,35.293,T1
+HCP02168,Internal Medicine,Northeast,-77.418,42.279,T14
+HCP02169,Cardiology,South,-94.279,28.112,T4
+HCP02170,Internal Medicine,Midwest,-90.495,45.108,T11
+HCP02171,Endocrinology,West,-119.218,39.123,T2
+HCP02172,Endocrinology,Midwest,-98.995,41.297,T6
+HCP02173,Geriatrics,West,-114.812,36.322,T1
+HCP02174,Internal Medicine,Northeast,-70.325,45.11,T19
+HCP02175,Nephrology,Northeast,-76.817,41.922,T14
+HCP02176,Nephrology,Midwest,-98.204,41.461,T6
+HCP02177,Cardiology,Midwest,-87.742,34.531,T12
+HCP02178,Endocrinology,South,-94.931,30.11,T4
+HCP02179,Internal Medicine,Northeast,-76.99,46.953,T15
+HCP02180,Endocrinology,Northeast,-79.016,44.342,T15
+HCP02181,Endocrinology,South,-89.879,31.202,T8
+HCP02182,Cardiology,South,-85.606,29.723,T12
+HCP02183,Cardiology,West,-109.233,36.548,T5
+HCP02184,Nephrology,South,-89.635,30.408,T8
+HCP02185,Internal Medicine,Northeast,-69.718,37.239,T17
+HCP02186,Cardiology,South,-90.034,32.735,T8
+HCP02187,Cardiology,Northeast,-71.825,35.972,T17
+HCP02188,Cardiology,Northeast,-64.846,40.8,T18
+HCP02189,Endocrinology,South,-94.674,31.939,T4
+HCP02190,Cardiology,South,-82.696,34.613,T12
+HCP02191,Endocrinology,South,-89.76,33.164,T8
+HCP02192,Internal Medicine,Northeast,-77.684,36.24,T13
+HCP02193,Internal Medicine,Northeast,-82.714,41.057,T14
+HCP02194,Geriatrics,West,-117.722,40.495,T2
+HCP02195,Cardiology,Midwest,-94.604,47.09,T7
+HCP02196,Internal Medicine,Midwest,-87.829,45.131,T15
+HCP02197,Internal Medicine,Midwest,-91.897,44.009,T11
+HCP02198,Nephrology,West,-118.169,37.828,T1
+HCP02199,Geriatrics,South,-96.046,29.051,T4
+HCP02200,Internal Medicine,West,-118.749,35.754,T1
+HCP02201,Internal Medicine,Northeast,-67.54,39.579,T18
+HCP02202,Internal Medicine,South,-93.428,36.489,T9
+HCP02203,Cardiology,Northeast,-72.726,43.198,T19
+HCP02204,Endocrinology,South,-88.041,29.9,T12
+HCP02205,Internal Medicine,Northeast,-73.342,44.02,T19
+HCP02206,Nephrology,South,-97.569,28.796,T4
+HCP02207,Endocrinology,West,-117.592,35.909,T1
+HCP02208,Internal Medicine,West,-106.105,46.917,T7
+HCP02209,Internal Medicine,South,-88.564,33.641,T12
+HCP02210,Nephrology,Northeast,-76.529,40.08,T14
+HCP02211,Geriatrics,South,-86.35,26.268,T12
+HCP02212,Nephrology,Northeast,-73.061,45.006,T19
+HCP02213,Nephrology,West,-118.71,33.702,T0
+HCP02214,Internal Medicine,West,-119.788,38.309,T1
+HCP02215,Internal Medicine,South,-96.345,34.904,T5
+HCP02216,Cardiology,West,-112.592,36.492,T1
+HCP02217,Internal Medicine,Northeast,-70.216,44.051,T19
+HCP02218,Cardiology,West,-107.9,34.761,T4
+HCP02219,Nephrology,Northeast,-75.313,40.452,T18
+HCP02220,Nephrology,Midwest,-96.945,44.321,T7
+HCP02221,Cardiology,West,-112.632,32.907,T0
+HCP02222,Internal Medicine,West,-112.984,39.957,T2
+HCP02223,Endocrinology,South,-91.287,34.689,T8
+HCP02224,Geriatrics,West,-115.378,33.189,T0
+HCP02225,Nephrology,South,-88.543,28.891,T12
+HCP02226,Cardiology,Midwest,-95.398,38.676,T5
+HCP02227,Cardiology,South,-94.753,31.946,T4
+HCP02228,Internal Medicine,South,-89.945,33.708,T8
+HCP02229,Internal Medicine,Midwest,-97.726,42.489,T7
+HCP02230,Internal Medicine,Midwest,-93.892,41.776,T6
+HCP02231,Cardiology,South,-93.239,27.481,T8
+HCP02232,Internal Medicine,Northeast,-62.156,42.301,T19
+HCP02233,Cardiology,Northeast,-72.625,42.832,T19
+HCP02234,Endocrinology,Midwest,-89.995,45.41,T11
+HCP02235,Internal Medicine,Northeast,-78.44,42.695,T15
+HCP02236,Nephrology,Northeast,-74.164,41.637,T18
+HCP02237,Endocrinology,Midwest,-93.489,37.441,T9
+HCP02238,Nephrology,Northeast,-69.903,39.509,T18
+HCP02239,Cardiology,Northeast,-71.423,44.443,T19
+HCP02240,Nephrology,Northeast,-75.689,43.034,T19
+HCP02241,Internal Medicine,West,-108.633,36.252,T5
+HCP02242,Internal Medicine,West,-113.148,33.437,T0
+HCP02243,Endocrinology,Northeast,-72.656,44.113,T19
+HCP02244,Cardiology,Northeast,-75.593,38.338,T17
+HCP02245,Geriatrics,Midwest,-96.339,47.013,T7
+HCP02246,Cardiology,Northeast,-76.022,41.881,T18
+HCP02247,Internal Medicine,Midwest,-90.616,41.318,T10
+HCP02248,Endocrinology,West,-113.559,40.831,T2
+HCP02249,Nephrology,West,-111.363,36.312,T5
+HCP02250,Nephrology,South,-90.61,33.074,T8
+HCP02251,Internal Medicine,South,-94.747,36.376,T5
+HCP02252,Endocrinology,South,-85.79,32.336,T12
+HCP02253,Geriatrics,Midwest,-98.702,43.886,T7
+HCP02254,Cardiology,Midwest,-98.006,40.573,T6
+HCP02255,Geriatrics,West,-116.838,28.955,T0
+HCP02256,Internal Medicine,Northeast,-77.616,42.018,T14
+HCP02257,Internal Medicine,Midwest,-91.116,43.047,T11
+HCP02258,Internal Medicine,South,-91.056,35.898,T9
+HCP02259,Nephrology,South,-92.55,31.488,T8
+HCP02260,Endocrinology,West,-115.398,36.619,T1
+HCP02261,Cardiology,Midwest,-91.055,40.047,T10
+HCP02262,Cardiology,Midwest,-93.566,35.05,T9
+HCP02263,Nephrology,Midwest,-93.252,40.182,T10
+HCP02264,Geriatrics,West,-116.317,37.834,T1
+HCP02265,Cardiology,South,-89.746,33.046,T8
+HCP02266,Endocrinology,West,-113.258,41.691,T2
+HCP02267,Nephrology,West,-115.851,41.136,T2
+HCP02268,Cardiology,Midwest,-95.246,44.023,T7
+HCP02269,Cardiology,Midwest,-97.632,43.878,T7
+HCP02270,Cardiology,South,-92.512,31.311,T8
+HCP02271,Internal Medicine,West,-113.939,40.553,T2
+HCP02272,Geriatrics,West,-120.598,32.742,T0
+HCP02273,Nephrology,Northeast,-76.583,43.293,T15
+HCP02274,Cardiology,Northeast,-69.015,41.037,T18
+HCP02275,Internal Medicine,Northeast,-68.93,36.066,T17
+HCP02276,Internal Medicine,Midwest,-91.337,44.021,T11
+HCP02277,Cardiology,Northeast,-64.118,39.914,T18
+HCP02278,Endocrinology,Northeast,-79.487,45.07,T15
+HCP02279,Cardiology,Northeast,-75.515,39.445,T18
+HCP02280,Internal Medicine,Midwest,-90.02,41.174,T10
+HCP02281,Nephrology,Northeast,-75.559,45.384,T19
+HCP02282,Geriatrics,South,-92.773,36.089,T9
+HCP02283,Internal Medicine,Northeast,-74.755,41.963,T18
+HCP02284,Internal Medicine,Midwest,-92.515,48.855,T11
+HCP02285,Internal Medicine,South,-88.425,34.759,T12
+HCP02286,Endocrinology,Midwest,-93.374,47.083,T11
+HCP02287,Cardiology,Midwest,-88.548,43.386,T15
+HCP02288,Endocrinology,Northeast,-70.655,41.035,T18
+HCP02289,Cardiology,Northeast,-68.984,40.165,T18
+HCP02290,Cardiology,Northeast,-71.938,41.853,T18
+HCP02291,Internal Medicine,Midwest,-93.002,39.072,T10
+HCP02292,Endocrinology,Northeast,-81.213,46.114,T15
+HCP02293,Internal Medicine,Midwest,-93.073,38.352,T9
+HCP02294,Cardiology,Midwest,-95.417,37.512,T5
+HCP02295,Cardiology,Northeast,-75.19,40.564,T18
+HCP02296,Internal Medicine,Northeast,-71.669,37.207,T17
+HCP02297,Nephrology,Midwest,-89.08,41.748,T14
+HCP02298,Internal Medicine,South,-88.842,32.88,T12
+HCP02299,Endocrinology,Midwest,-84.934,45.047,T15
+HCP02300,Nephrology,Midwest,-90.557,39.362,T10
+HCP02301,Cardiology,West,-106.588,39.627,T6
+HCP02302,Internal Medicine,West,-114.512,39.811,T2
+HCP02303,Internal Medicine,Northeast,-78.943,41.182,T14
+HCP02304,Internal Medicine,Northeast,-75.906,42.81,T19
+HCP02305,Cardiology,South,-93.42,33.363,T8
+HCP02306,Internal Medicine,West,-117.211,38.401,T1
+HCP02307,Internal Medicine,South,-92.072,32.338,T8
+HCP02308,Cardiology,Midwest,-89.106,44.943,T15
+HCP02309,Endocrinology,Midwest,-89.37,37.849,T9
+HCP02310,Endocrinology,Midwest,-88.594,39.005,T13
+HCP02311,Internal Medicine,Midwest,-92.472,45.778,T11
+HCP02312,Cardiology,South,-92.646,30.283,T8
+HCP02313,Endocrinology,West,-115.379,40.801,T2
+HCP02314,Endocrinology,Northeast,-73.538,40.361,T18
+HCP02315,Nephrology,West,-115.14,34.812,T1
+HCP02316,Internal Medicine,South,-95.694,32.352,T4
+HCP02317,Internal Medicine,South,-94.273,28.552,T4
+HCP02318,Endocrinology,Midwest,-87.845,41.713,T14
+HCP02319,Internal Medicine,West,-116.647,43.343,T3
+HCP02320,Internal Medicine,South,-92.832,33.561,T8
+HCP02321,Nephrology,Midwest,-96.693,41.597,T6
+HCP02322,Endocrinology,West,-124.152,39.008,T1
+HCP02323,Endocrinology,Northeast,-67.221,43.486,T19
+HCP02324,Internal Medicine,Midwest,-95.561,44.545,T7
+HCP02325,Cardiology,Northeast,-75.123,42.743,T19
+HCP02326,Internal Medicine,West,-121.547,36.171,T1
+HCP02327,Internal Medicine,Northeast,-68.688,42.757,T19
+HCP02328,Nephrology,West,-121.231,37.684,T1
+HCP02329,Nephrology,West,-119.213,41.798,T2
+HCP02330,Cardiology,Northeast,-65.971,42.869,T19
+HCP02331,Endocrinology,South,-83.531,28.214,T12
+HCP02332,Cardiology,Midwest,-92.861,40.376,T10
+HCP02333,Internal Medicine,Northeast,-68.902,42.598,T19
+HCP02334,Cardiology,West,-118.072,36.682,T1
+HCP02335,Internal Medicine,West,-115.387,36.563,T1
+HCP02336,Internal Medicine,West,-110.932,40.955,T6
+HCP02337,Internal Medicine,West,-116.631,35.013,T1
+HCP02338,Internal Medicine,West,-116.157,42.954,T3
+HCP02339,Cardiology,South,-89.268,31.499,T8
+HCP02340,Endocrinology,Northeast,-73.643,42.662,T19
+HCP02341,Endocrinology,West,-119.462,35.009,T1
+HCP02342,Cardiology,West,-117.052,36.999,T1
+HCP02343,Internal Medicine,West,-117.363,38.747,T1
+HCP02344,Internal Medicine,West,-116.172,37.465,T1
+HCP02345,Cardiology,South,-94.07,36.683,T5
+HCP02346,Nephrology,West,-113.941,38.856,T1
+HCP02347,Internal Medicine,Northeast,-79.133,48.608,T15
+HCP02348,Nephrology,Midwest,-88.35,40.992,T14
+HCP02349,Cardiology,Northeast,-73.393,42.014,T18
+HCP02350,Geriatrics,Midwest,-89.813,40.555,T10
+HCP02351,Cardiology,Northeast,-73.551,41.625,T18
+HCP02352,Internal Medicine,Midwest,-90.183,41.004,T10
+HCP02353,Endocrinology,Northeast,-80.044,41.818,T14
+HCP02354,Internal Medicine,West,-112.044,40.918,T2
+HCP02355,Geriatrics,South,-93.682,32.388,T4
+HCP02356,Internal Medicine,Midwest,-98.281,40.102,T6
+HCP02357,Endocrinology,South,-93.412,33.618,T8
+HCP02358,Endocrinology,West,-109.962,34.81,T5
+HCP02359,Endocrinology,South,-88.976,35.829,T13
+HCP02360,Nephrology,West,-113.538,37.582,T1
+HCP02361,Cardiology,South,-83.356,31.919,T12
+HCP02362,Nephrology,Midwest,-95.553,42.544,T7
+HCP02363,Nephrology,South,-93.831,30.332,T4
+HCP02364,Nephrology,South,-85.26,33.426,T12
+HCP02365,Cardiology,Northeast,-79.312,40.209,T14
+HCP02366,Nephrology,West,-117.811,31.653,T0
+HCP02367,Geriatrics,West,-110.501,37.292,T5
+HCP02368,Cardiology,West,-111.388,38.441,T5
+HCP02369,Internal Medicine,Northeast,-75.66,43.269,T19
+HCP02370,Endocrinology,West,-111.667,33.886,T4
+HCP02371,Cardiology,West,-114.943,40.883,T2
+HCP02372,Cardiology,West,-118.657,35.291,T1
+HCP02373,Internal Medicine,West,-116.227,37.055,T1
+HCP02374,Internal Medicine,Midwest,-96.011,47.746,T7
+HCP02375,Cardiology,West,-112.639,38.209,T1
+HCP02376,Endocrinology,South,-90.407,34.961,T9
+HCP02377,Cardiology,Northeast,-74.118,38.4,T17
+HCP02378,Endocrinology,Midwest,-85.443,40.506,T14
+HCP02379,Nephrology,Northeast,-67.962,45.494,T19
+HCP02380,Cardiology,South,-88.891,34.468,T12
+HCP02381,Cardiology,Midwest,-87.415,39.643,T14
+HCP02382,Cardiology,South,-89.581,34.121,T8
+HCP02383,Endocrinology,Midwest,-92.893,43.465,T11
+HCP02384,Cardiology,Midwest,-95.402,42.502,T7
+HCP02385,Internal Medicine,Midwest,-92.908,45.385,T11
+HCP02386,Internal Medicine,West,-117.298,41.724,T2
+HCP02387,Cardiology,Northeast,-70.708,37.032,T17
+HCP02388,Endocrinology,West,-119.884,34.736,T0
+HCP02389,Internal Medicine,West,-121.413,39.716,T2
+HCP02390,Internal Medicine,West,-117.264,40.222,T2
+HCP02391,Cardiology,Midwest,-89.399,38.739,T9
+HCP02392,Internal Medicine,South,-93.286,31.001,T8
+HCP02393,Internal Medicine,South,-85.699,34.213,T12
+HCP02394,Nephrology,South,-92.92,28.001,T8
+HCP02395,Internal Medicine,Midwest,-93.821,42.191,T6
+HCP02396,Internal Medicine,Northeast,-70.727,41.79,T18
+HCP02397,Cardiology,South,-94.322,29.026,T4
+HCP02398,Geriatrics,Midwest,-94.174,40.41,T6
+HCP02399,Internal Medicine,West,-114.836,38.979,T1
+HCP02400,Endocrinology,Northeast,-73.687,47.644,T19
+HCP02401,Internal Medicine,South,-92.646,32.076,T8
+HCP02402,Endocrinology,Northeast,-74.594,41.391,T18
+HCP02403,Cardiology,South,-94.337,31.935,T4
+HCP02404,Geriatrics,South,-93.294,26.163,T8
+HCP02405,Endocrinology,South,-91.541,34.51,T8
+HCP02406,Cardiology,Midwest,-90.837,41.339,T10
+HCP02407,Cardiology,Northeast,-71.172,43.091,T19
+HCP02408,Internal Medicine,South,-94.328,32.378,T4
+HCP02409,Cardiology,West,-116.679,32.566,T0
+HCP02410,Internal Medicine,Midwest,-88.023,43.848,T15
+HCP02411,Nephrology,Midwest,-94.766,40.824,T6
+HCP02412,Cardiology,Northeast,-79.158,42.211,T14
+HCP02413,Nephrology,Midwest,-96.717,39.749,T6
+HCP02414,Endocrinology,West,-113.744,39.665,T2
+HCP02415,Cardiology,South,-96.707,30.5,T4
+HCP02416,Internal Medicine,Midwest,-92.176,43.83,T11
+HCP02417,Internal Medicine,South,-85.667,29.25,T12
+HCP02418,Cardiology,Midwest,-93.438,38.686,T9
+HCP02419,Endocrinology,Northeast,-72.172,36.715,T17
+HCP02420,Internal Medicine,Midwest,-94.285,38.884,T5
+HCP02421,Endocrinology,Northeast,-76.251,43.499,T15
+HCP02422,Endocrinology,South,-90.432,33.896,T8
+HCP02423,Nephrology,West,-110.382,39.629,T6
+HCP02424,Internal Medicine,South,-89.756,27.143,T8
+HCP02425,Internal Medicine,Northeast,-72.773,48.844,T19
+HCP02426,Geriatrics,West,-117.057,40.127,T2
+HCP02427,Internal Medicine,Northeast,-72.211,42.393,T19
+HCP02428,Internal Medicine,Midwest,-88.416,44.108,T15
+HCP02429,Cardiology,Midwest,-104.399,34.515,T4
+HCP02430,Internal Medicine,Midwest,-92.854,46.33,T11
+HCP02431,Nephrology,West,-113.946,38.045,T1
+HCP02432,Cardiology,Midwest,-92.584,43.569,T11
+HCP02433,Nephrology,West,-111.547,40.302,T6
+HCP02434,Cardiology,South,-90.332,36.279,T9
+HCP02435,Nephrology,South,-88.753,33.547,T12
+HCP02436,Nephrology,South,-89.876,36.103,T9
+HCP02437,Internal Medicine,Northeast,-72.496,42.177,T18
+HCP02438,Endocrinology,South,-90.951,30.394,T8
+HCP02439,Endocrinology,Northeast,-67.305,47.601,T19
+HCP02440,Internal Medicine,West,-111.938,37.698,T1
+HCP02441,Geriatrics,West,-110.36,39.018,T5
+HCP02442,Internal Medicine,Midwest,-95.891,42.291,T7
+HCP02443,Cardiology,South,-88.765,33.712,T12
+HCP02444,Internal Medicine,South,-82.845,36.458,T13
+HCP02445,Cardiology,West,-121.228,37.507,T1
+HCP02446,Endocrinology,Northeast,-77.779,42.522,T15
+HCP02447,Endocrinology,West,-127.214,38.619,T1
+HCP02448,Cardiology,Northeast,-70.748,39.285,T18
+HCP02449,Cardiology,West,-119.032,36.562,T1
+HCP02450,Internal Medicine,South,-89.009,29.57,T12
+HCP02451,Cardiology,South,-88.656,29.605,T12
+HCP02452,Cardiology,West,-111.703,40.542,T2
+HCP02453,Nephrology,Midwest,-88.139,40.527,T14
+HCP02454,Nephrology,Northeast,-75.215,41.147,T18
+HCP02455,Cardiology,West,-118.506,35.223,T1
+HCP02456,Cardiology,Northeast,-72.236,42.806,T19
+HCP02457,Endocrinology,Northeast,-85.157,37.664,T13
+HCP02458,Internal Medicine,West,-106.945,35.485,T5
+HCP02459,Endocrinology,Northeast,-65.844,37.154,T17
+HCP02460,Geriatrics,Northeast,-65.683,39.769,T18
+HCP02461,Endocrinology,Northeast,-77.466,45.871,T15
+HCP02462,Internal Medicine,Midwest,-80.002,46.149,T15
+HCP02463,Cardiology,Midwest,-91.049,44.66,T11
+HCP02464,Internal Medicine,Midwest,-96.901,38.489,T5
+HCP02465,Cardiology,West,-109.296,37.284,T5
+HCP02466,Cardiology,Midwest,-99.126,49.854,T7
+HCP02467,Cardiology,West,-115.416,38.543,T1
+HCP02468,Internal Medicine,West,-117.802,37.392,T1
+HCP02469,Endocrinology,West,-112.586,39.527,T2
+HCP02470,Endocrinology,West,-119.869,34.726,T0
+HCP02471,Internal Medicine,Midwest,-97.466,46.285,T7
+HCP02472,Cardiology,Northeast,-77.135,41.668,T14
+HCP02473,Cardiology,Northeast,-70.498,41.024,T18
+HCP02474,Endocrinology,Midwest,-98.245,42.078,T6
+HCP02475,Internal Medicine,Northeast,-71.797,44.428,T19
+HCP02476,Cardiology,Northeast,-79.026,42.333,T15
+HCP02477,Internal Medicine,South,-92.052,31.016,T8
+HCP02478,Internal Medicine,West,-111.58,41.743,T6
+HCP02479,Internal Medicine,Midwest,-97.798,46.901,T7
+HCP02480,Cardiology,Northeast,-73.093,47.22,T19
+HCP02481,Nephrology,Midwest,-90.131,41.581,T10
+HCP02482,Cardiology,Northeast,-69.02,41.169,T18
+HCP02483,Endocrinology,Northeast,-78.139,44.44,T15
+HCP02484,Cardiology,Northeast,-69.864,44.631,T19
+HCP02485,Endocrinology,West,-116.588,33.914,T0
+HCP02486,Cardiology,Northeast,-74.531,45.986,T19
+HCP02487,Nephrology,South,-77.535,28.598,T12
+HCP02488,Endocrinology,South,-87.07,27.034,T12
+HCP02489,Endocrinology,Northeast,-80.188,41.071,T14
+HCP02490,Endocrinology,West,-108.636,38.34,T5
+HCP02491,Endocrinology,Northeast,-72.43,42.325,T19
+HCP02492,Nephrology,Midwest,-92.338,42.605,T11
+HCP02493,Cardiology,Northeast,-64.743,44.001,T19
+HCP02494,Endocrinology,Midwest,-88.273,43.596,T15
+HCP02495,Nephrology,Midwest,-99.992,39.793,T6
+HCP02496,Cardiology,Northeast,-75.941,42.986,T19
+HCP02497,Endocrinology,West,-112.175,41.265,T2
+HCP02498,Endocrinology,Northeast,-69.454,38.304,T17
+HCP02499,Endocrinology,Midwest,-93.347,41.522,T10
+HCP02500,Internal Medicine,West,-118.251,38.647,T1

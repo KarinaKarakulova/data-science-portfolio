@@ -1,0 +1,53 @@
+{
+  "hcps": 2500,
+  "segments": [
+    {
+      "segment": "DEFEND (at risk)",
+      "hcps": 392,
+      "market_trx": 131278.0,
+      "our_share": 0.19,
+      "calls_now": 1946.0,
+      "calls_opt": 4704
+    },
+    {
+      "segment": "GROW (headroom)",
+      "hcps": 599,
+      "market_trx": 174081.0,
+      "our_share": 0.31,
+      "calls_now": 2863.0,
+      "calls_opt": 7111
+    },
+    {
+      "segment": "MAINTAIN (loyal)",
+      "hcps": 384,
+      "market_trx": 145315.0,
+      "our_share": 0.42,
+      "calls_now": 5318.0,
+      "calls_opt": 2585
+    },
+    {
+      "segment": "MONITOR (low potential)",
+      "hcps": 1125,
+      "market_trx": 69606.0,
+      "our_share": 0.16,
+      "calls_now": 4273.0,
+      "calls_opt": 0
+    }
+  ],
+  "ari_vs_kmeans": 0.811,
+  "ari_vs_hidden_archetypes": 0.821,
+  "capacity_calls_6m": 14400,
+  "expected_uplift_pct": 64.2,
+  "priority_coverage_current": 0.515,
+  "priority_coverage_optimized": 1.0,
+  "assumptions": {
+    "beta_per_segment": {
+      "DEFEND (at risk)": 0.55,
+      "GROW (headroom)": 0.45,
+      "MAINTAIN (loyal)": 0.15,
+      "MONITOR (low potential)": 0.05
+    },
+    "decay": 0.85,
+    "max_calls_per_hcp_6m": 12
+  }
+}
