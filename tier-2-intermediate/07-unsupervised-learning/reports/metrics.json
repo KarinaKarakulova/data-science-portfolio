@@ -1,0 +1,11 @@
+{
+  "n_customers": 3500,
+  "n_transactions": 237431,
+  "chosen_K": 5,
+  "silhouette_kmeans": 0.673,
+  "silhouette_ward": 0.669,
+  "kmeans_vs_ward_ARI": 0.98,
+  "recovery_ARI_vs_truth": 0.97,
+  "anomaly_recall": 1.0,
+  "pca_2pc_variance": 0.74
+}
