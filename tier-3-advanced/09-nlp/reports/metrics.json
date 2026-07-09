@@ -1,0 +1,29 @@
+{
+  "n": 5572,
+  "spam_rate": 0.13406317300789664,
+  "cv": {
+    "nb_word": {
+      "pr_auc_mean": 0.9576659981173474,
+      "pr_auc_std": 0.008273167968622083
+    },
+    "logreg_word12": {
+      "pr_auc_mean": 0.9814770307436165,
+      "pr_auc_std": 0.005433880713521298
+    },
+    "svc_char35": {
+      "pr_auc_mean": 0.98668339320429,
+      "pr_auc_std": 0.003527297454075986
+    }
+  },
+  "champion": "svc_char35",
+  "test": {
+    "pr_auc": 0.988,
+    "roc_auc": 0.9957
+  },
+  "operating_point": {
+    "threshold": 0.48,
+    "precision_spam": 0.993,
+    "recall_spam": 0.9463,
+    "false_positives": 1
+  }
+}
