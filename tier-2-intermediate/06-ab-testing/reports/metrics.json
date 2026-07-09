@@ -1,0 +1,42 @@
+{
+  "design": {
+    "baseline": 0.1,
+    "mde_pp": 1.0,
+    "alpha": 0.05,
+    "power": 0.8,
+    "n_per_arm_required": 14745,
+    "n_per_arm_run": 14756
+  },
+  "truth": {
+    "true_lift_pp": 1.2
+  },
+  "srm_p": 1.0,
+  "frequentist": {
+    "conv_A": 0.09901057197072377,
+    "conv_B": 0.11588506370290051,
+    "obs_lift_pp": 1.6874491732176742,
+    "z": 4.680415598145833,
+    "p_one_sided": 1.4314697883949243e-06,
+    "ci95_pp": [
+      0.981077737787054,
+      2.3938206086482943
+    ],
+    "cohen_h": 0.05452912775350138
+  },
+  "secondary_aov": {
+    "p": 0.17457556721017323,
+    "note": "true effect is zero by construction"
+  },
+  "peeking_sim": {
+    "fpr_fixed": 0.0475,
+    "fpr_daily_peeking": 0.224
+  },
+  "bayesian": {
+    "p_b_beats_a": 0.999995,
+    "expected_loss_choosing_b": 2.6232429844677553e-09,
+    "lift_ci95_pp": [
+      0.9791922279373131,
+      2.3905398196381076
+    ]
+  }
+}
