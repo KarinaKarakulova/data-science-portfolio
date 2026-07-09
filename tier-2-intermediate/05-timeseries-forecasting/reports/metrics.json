@@ -1,0 +1,27 @@
+{
+  "backtest_overall": {
+    "MAE": {
+      "harmonic_arma": 2.025,
+      "climatology": 2.193,
+      "holt_trend_only": 2.791,
+      "seasonal_naive": 3.411
+    },
+    "RMSE": {
+      "harmonic_arma": 2.525,
+      "climatology": 2.755,
+      "holt_trend_only": 3.662,
+      "seasonal_naive": 4.287
+    }
+  },
+  "champion": "harmonic_arma",
+  "holdout_1990": {
+    "mae": 1.958,
+    "seasonal_naive_mae": 2.867,
+    "interval80_coverage": 0.83
+  },
+  "ljung_box_p": {
+    "7": 0.1347,
+    "14": 0.3662,
+    "30": 0.3529
+  }
+}
