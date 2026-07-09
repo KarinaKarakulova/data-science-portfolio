@@ -1,0 +1,8 @@
+__pycache__/
+*.duckdb
+*.duckdb.wal
+rx_analytics/target/
+rx_analytics/logs/
+rx_analytics/dbt_packages/
+logs/
+.ipynb_checkpoints/
